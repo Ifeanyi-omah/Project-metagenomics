@@ -1,0 +1,10 @@
+Myotis lucifugus		
+Felis catus		
+Gallus gallus		
+Capra hircus		
+Anolis carolinensis		
+Sus scrofa		
+Mus musculus		
+Ovis aries		
+Sciurus carolinensis		
+Canis-1		

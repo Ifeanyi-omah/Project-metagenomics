@@ -1,0 +1,16 @@
+hosts,host_feeding,host_habitat,location,sample_type,actual_host_sample_size,cross_species_count,virus_species_richness,virus_abundance
+Bat,Other,wild,Ondo,Tissue,10,1,2,30206.254
+Cat,Other,domesticated,Ebonyi,Non-tissue,2,1,1,862.6210000000001
+Chicken,Other,domesticated,Ebonyi,Non-tissue,4,6,9,488.3340000000001
+Dog,Other,domesticated,Ebonyi,Non-tissue,31,9,26,55929.462999999996
+Dog,Other,domesticated,Ondo,Non-tissue,31,12,35,62197.55699999998
+Goat,Herbivore,domesticated,Ebonyi,Non-tissue,46,12,36,65028.53399999999
+Goat,Herbivore,domesticated,Ondo,Non-tissue,46,12,62,116486.42000000001
+Lizard,Other,peridomesticated,Ebonyi,Tissue,3,2,2,5.92
+Lizard,Other,peridomesticated,Ondo,Tissue,3,2,4,15.47
+Pig,Other,domesticated,Ebonyi,Non-tissue,4,9,39,60028.30900000001
+Rodent,Other,peridomesticated,Ebonyi,Tissue,105,3,6,22128.863
+Rodent,Other,peridomesticated,Ondo,Tissue,105,11,49,130546.26300000002
+Sheep,Herbivore,domesticated,Ebonyi,Non-tissue,11,3,6,67.716
+Sheep,Herbivore,domesticated,Ondo,Non-tissue,11,4,12,9638.413
+Squirrel,Other,wild,Ondo,Tissue,10,4,14,11332.712000000001

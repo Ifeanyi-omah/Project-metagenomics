@@ -1,0 +1,1115 @@
+family,sci_name,hosts,location,sample_type,host_feeding,host_habitat,virus_host_count,infected_host_sample_size,actual_host_sample_size,read_count,read_prop,RPM
+Parvoviridae,Aleutian mink disease parvovirus,Bat,Ondo,Liver,Carnivores,wild,1,7,10,8344,0.011645595,11645.59533
+Parvoviridae,Amdoparvovirus carnivoran4,Bat,Ondo,Liver,Carnivores,wild,1,7,10,64,8.93E-05,89.3238464
+Parvoviridae,Amdoparvovirus carnivoran5,Bat,Ondo,Liver,Carnivores,wild,1,7,10,40,5.58E-05,55.827404
+Parvoviridae,Asian badger amdoparvovirus,Bat,Ondo,Liver,Carnivores,wild,1,7,10,3126,0.004362912,4362.912313
+Parvoviridae,Gray fox amdovirus,Bat,Ondo,Liver,Carnivores,wild,1,7,10,1196,0.001669239,1669.239178
+Parvoviridae,Labrador amdoparvovirus 1,Bat,Ondo,Liver,Carnivores,wild,1,7,10,470,0.000655972,655.9719401
+Parvoviridae,Labrador amdoparvovirus 2,Bat,Ondo,Liver,Carnivores,wild,1,7,10,3348,0.004672754,4672.753616
+Parvoviridae,Megabat bufavirus 1,Bat,Ondo,Liver,Carnivores,wild,1,7,10,141,0.000200007,200.0065868
+Parvoviridae,Parvovirinae sp.,Bat,Ondo,Liver,Carnivores,wild,2,7,10,7594,0.010598832,10598.83224
+Parvoviridae,Raccoon dog amdovirus,Bat,Ondo,Liver,Carnivores,wild,1,7,10,2077,0.002898839,2898.838727
+Parvoviridae,Skunk amdoparvovirus,Bat,Ondo,Liver,Carnivores,wild,1,7,10,4124,0.005755804,5755.804323
+Parvoviridae,red panda amdoparvovirus,Bat,Ondo,Liver,Carnivores,wild,1,7,10,195,0.000272159,272.1585945
+Parvoviridae,sabeidhel virus 1,Bat,Ondo,Liver,Carnivores,wild,1,7,10,25464,0.036456248,36456.24847
+Poxviridae,Yokapox virus,Bat,Ondo,Liver,Carnivores,wild,1,7,10,16,0.000154263,154.2632013
+Unclassifed,Bat Middle East Hepe-Astrovirus,Bat,Ondo,Liver,Carnivores,wild,1,7,10,2225,0.003105399,3105.39902
+Genomoviridae,Common bean-associated gemycircularvirus,Bat,Ondo,Lung,Carnivores,wild,1,7,10,21,3.11E-05,31.13731258
+Genomoviridae,Pacific flying fox faeces associated gemycircularvirus-6,Bat,Ondo,Lung,Carnivores,wild,1,7,10,4,5.93E-06,5.930916682
+Parvoviridae,sabeidhel virus 1,Bat,Ondo,Lung,Carnivores,wild,1,7,10,32,5.11E-05,51.1
+Poxviridae,Murmansk poxvirus,Bat,Ondo,Lung,Carnivores,wild,1,7,10,4,7.83E-06,7.834074306
+Poxviridae,Yokapox virus,Bat,Ondo,Lung,Carnivores,wild,1,7,10,30,5.00E-05,49.96066195
+Unclassifed,Bat Middle East Hepe-Astrovirus,Bat,Ondo,Lung,Carnivores,wild,1,7,10,11904,0.021680259,21680.25932
+Caliciviridae,Feline calicivirus,Cat,Ebonyi,Swab,Carnivores,domesticated,1,2,2,7105,0.000862621,862.621
+Coronaviridae,Bovine coronavirus,Cat,Ondo,Swab,Carnivores,domesticated,5,2,2,14,5.80E-07,0.579814824
+Genomoviridae,Chimpanzee gemykibivirus,Cat,Ebonyi,Swab,Carnivores,domesticated,3,2,2,4,4.50E-07,0.449738769
+Genomoviridae,Human associated gemykibivirus 2,Cat,Ebonyi,Swab,Carnivores,domesticated,5,2,2,20,2.25E-06,2.248693846
+Papillomaviridae,Felis catus papillomavirus,Cat,Ebonyi,Swab,Carnivores,domesticated,1,2,2,57,6.41E-06,6.408777462
+Papillomaviridae,Leopardus wiedii papillomavirus type 1,Cat,Ebonyi,Swab,Carnivores,domesticated,1,2,2,24,2.70E-06,2.698432615
+Papillomaviridae,Panthera leo persica papillomavirus 1,Cat,Ebonyi,Swab,Carnivores,domesticated,1,2,2,8,8.99E-07,0.899477538
+Parvoviridae,Protoparvovirus carnivoran1,Cat,Ebonyi,Swab,Carnivores,domesticated,3,2,2,6,6.75E-07,0.674608154
+Picobirnaviridae,Picobirnavirus sp.,Cat,Ebonyi,Swab,Carnivores,domesticated,8,2,2,4683,0.000526532,526.532
+Adenoviridae,Bovine adenovirus 3,Chicken,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,3,4,4,2.74E-07,0.27375967
+Adenoviridae,Tree shrew adenovirus 1,Chicken,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,3,4,34,2.43E-06,2.43
+Astroviridae,Chicken astrovirus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,3,3,4,57,1.44E-05,14.38008207
+Coronaviridae,Avian coronavirus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,4,3,4,120,2.90E-05,29.00027357
+Coronaviridae,Duck coronavirus 2714,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,2,3,4,370,0.000100144,100.144
+Coronaviridae,Duck-dominant coronavirus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,2,3,4,141,3.82E-05,38.2
+Coronaviridae,Guinea fowl coronavirus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,3,3,4,8,5.11E-07,0.511012968
+Coronaviridae,Infectious bronchitis virus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,5,3,4,1235,0.000320933,320.9333843
+Genomoviridae,Chicken stool-associated gemycircularvirus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,4,3,4,4,2.56E-07,0.255506484
+Genomoviridae,crane CRESS-DNA virus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,2,3,4,23,1.47E-06,1.469162284
+Hepeviridae,Avian hepatitis E virus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,1,3,4,4,2.56E-07,0.255506484
+Hepeviridae,Sichuan orthohepevirus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,1,3,4,12,7.67E-07,0.766519452
+Mitoviridae,Mitoviridae sp.,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,3,3,4,12,2.90E-06,2.900027357
+Mitoviridae,Mitovirus JS3,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,2,3,4,56,1.42E-05,14.23340629
+Narnaviridae,Knope narna-like virus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,1,3,4,10,2.42E-06,2.416689464
+Orthoherpesviridae,Gallid alphaherpesvirus 1,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,1,3,4,4,2.56E-07,0.255506484
+Orthoherpesviridae,Gallid alphaherpesvirus 2,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,4,3,4,208,5.16E-05,51.59203827
+Orthoherpesviridae,Gallid alphaherpesvirus 3,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,2,3,4,366,8.85E-05,88.45083439
+Orthoherpesviridae,Marek's disease virus serotype 2 MDV2,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,2,3,4,24,5.80E-06,5.800054714
+Orthoherpesviridae,Meleagrid alphaherpesvirus 1,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,2,3,4,14,3.38E-06,3.38336525
+Orthoherpesviridae,Phasianid herpesvirus 1,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,1,3,4,6,1.45E-06,1.450013678
+Paramyxoviridae,peste-des-petits-ruminants virus,Chicken,Ebonyi ,Rectal,Omnivores,peri-domesticated,4,3,4,8,5.48E-07,0.54751934
+Parvoviridae,Canine parvovirus,Chicken,Ebonyi ,Rectal,Omnivores,peri-domesticated,6,3,4,8,5.48E-07,0.54751934
+Picobirnaviridae,Picobirnavirus sp.,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,8,3,4,935,0.000118839,118.8388746
+Picobirnaviridae,Picobirnavirus sp.,Chicken,Ebonyi ,Rectal,Omnivores,peri-domesticated,8,3,4,36,2.51E-06,2.508798351
+Picobirnaviridae,Porcine picobirnavirus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,6,3,4,20,1.28E-06,1.277532421
+Picornaviridae,Chicken picornavirus 4,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,4,3,4,15,9.58E-07,0.958149315
+Picornaviridae,Chicken picornavirus UCC13,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,2,3,4,11,7.03E-07,0.702642831
+Picornaviridae,Chicken proventriculitis virus,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,1,3,4,13,8.30E-07,0.830396073
+Picornaviridae,Megrivirus sp.,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,5,3,4,341,2.24E-05,22.37894146
+Picornaviridae,Picornaviridae sp.,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,2,3,4,5,3.19E-07,0.319383105
+Picornaviridae,megrivirus C1,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,3,3,4,30,1.92E-06,1.916298631
+Picornaviridae,megrivirus C2,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,4,3,4,62,4.05E-06,4.052025936
+Poxviridae,Molluscum contagiosum virus subtype 1,Chicken,Ebonyi ,Rectal,Omnivores,peri-domesticated,3,3,4,5,3.42E-07,0.342199588
+Poxviridae,Orf virus,Chicken,Ebonyi ,Rectal,Omnivores,peri-domesticated,7,3,4,119,8.14E-06,8.144350189
+Tymoviridae,Nanning tick virus 2,Chicken,Ebonyi,Rectal,Omnivores,peri-domesticated,1,3,4,13,8.49E-07,0.848506484
+Adenoviridae,Fowl adenovirus 9,Dog,Ebonyi ,Oral,Carnivores,domesticated,1,24,31,13,6.09E-06,6.087458992
+Adenoviridae,Fowl aviadenovirus 11,Dog,Ebonyi ,Oral,Carnivores,domesticated,2,24,31,13,6.09E-06,6.087458992
+Adenoviridae,Fowl aviadenovirus D,Dog,Ebonyi ,Oral,Carnivores,domesticated,2,24,31,40,1.87E-05,18.73064305
+Adenoviridae,Human mastadenovirus D,Dog,Ebonyi ,Oral,Carnivores,domesticated,2,24,31,10,4.68E-06,4.682660763
+Astroviridae,Avian nephritis virus,Dog,Ebonyi ,Oral,Carnivores,domesticated,1,24,31,12,5.62E-06,5.619192915
+Astroviridae,Avian nephritis virus 2,Dog,Ebonyi ,Oral,Carnivores,domesticated,1,24,31,20,9.37E-06,9.365321526
+Astroviridae,Mamastrovirus 3,Dog,Ebonyi ,Oral,Carnivores,domesticated,5,24,31,40,1.16E-05,11.57016558
+Genomoviridae,Genomoviridae sp.,Dog,Ebonyi ,Oral,Carnivores,domesticated,6,24,31,72,3.37E-05,33.71515749
+Genomoviridae,Plant associated genomovirus 6,Dog,Ebonyi ,Oral,Carnivores,domesticated,2,24,31,14,6.56E-06,6.555725068
+Mitoviridae,Hangzhou mitovirus 6,Dog,Ebonyi ,Oral,Carnivores,domesticated,1,24,31,27,1.41E-05,14.08266076
+Mitoviridae,Mitoviridae sp.,Dog,Ebonyi ,Oral,Carnivores,domesticated,3,24,31,8,3.75E-06,3.74612861
+Nodaviridae,Macrobrachium rosenbergii nodavirus,Dog,Ebonyi ,Oral,Carnivores,domesticated,1,24,31,6,2.81E-06,2.809596458
+Orthoherpesviridae,Human betaherpesvirus 5,Dog,Ebonyi ,Oral,Carnivores,domesticated,2,24,31,8,3.75E-06,3.74612861
+Papillomaviridae,Canine papillomavirus 21,Dog,Ebonyi ,Oral,Carnivores,domesticated,1,24,31,1648,0.000911611,911.611
+Papillomaviridae,Human papillomavirus 174,Dog,Ebonyi ,Oral,Carnivores,domesticated,1,24,31,10,1.43E-06,1.427898277
+Papillomaviridae,Human papillomavirus 93,Dog,Ebonyi ,Oral,Carnivores,domesticated,1,24,31,6,2.81E-06,2.809596458
+Paramyxoviridae,avian paramyxovirus 1,Dog,Ebonyi ,Oral,Carnivores,domesticated,2,24,31,36,1.69E-05,16.85757875
+Parvoviridae,Bufavirus-2,Dog,Ebonyi ,Oral,Carnivores,domesticated,1,24,31,6,2.81E-06,2.809596458
+Picobirnaviridae,Picobirnaviridae sp.,Dog,Ebonyi ,Oral,Carnivores,domesticated,3,24,31,74,1.06E-05,10.56644725
+Picobirnaviridae,Picobirnavirus sp.,Dog,Ebonyi ,Oral,Carnivores,domesticated,8,24,31,56,2.62E-05,26.22290027
+Picobirnaviridae,Porcine picobirnavirus,Dog,Ebonyi ,Oral,Carnivores,domesticated,6,24,31,44,6.78E-06,6.783477932
+Poxviridae,Orf virus,Dog,Ebonyi ,Oral,Carnivores,domesticated,7,24,31,25,3.57E-06,3.569745691
+Unclassifed,Retsystermes virus,Dog,Ebonyi ,Oral,Carnivores,domesticated,1,24,31,15,7.02E-06,7.023991144
+Genomoviridae,Human associated gemykibivirus 2,Dog,Ebonyi ,Rectal,Carnivores,domesticated,5,24,31,4,2.79E-07,0.278735272
+Phycodnaviridae,Orpheovirus IHUMI-LCC2,Dog,Ebonyi ,Rectal,Carnivores,domesticated,1,24,31,4,2.79E-07,0.278735272
+Picobirnaviridae,Bovine picobirnavirus,Dog,Ebonyi ,Rectal,Carnivores,domesticated,4,24,31,4,2.79E-07,0.278735272
+Picobirnaviridae,Picobirnavirus sp.,Dog,Ebonyi ,Rectal,Carnivores,domesticated,8,24,31,39,2.76E-06,2.760779269
+Poxviridae,Orf virus,Dog,Ebonyi ,Rectal,Carnivores,domesticated,7,24,31,164,1.14E-05,11.42814616
+Adenoviridae,Human adenovirus 18,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,678,0.000238447,238.4465149
+Adenoviridae,Human adenovirus 25,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,4,5.02E-07,0.501891378
+Adenoviridae,Simian adenovirus ch1,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,19,2.38E-06,2.383984044
+Alphaflexiviridae,Cassava common mosaic virus,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,78,3.20E-05,31.98063244
+Anelloviridae,Nayun tick torquevirus,Dog,Ebonyi,Swab,Carnivores,domesticated,3,24,31,489,0.000210716,210.716
+Anelloviridae,Nayun tick torquevirus,Dog,Ondo,Swab,Carnivores,domesticated,3,24,31,52,9.60E-06,9.601540655
+Astroviridae,Astrovirus HK-2014,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,32,1.44E-05,14.36055858
+Astroviridae,Astrovirus MLB2,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,124,0.000688092,688.0921288
+Astroviridae,Chicken astrovirus,Dog,Ondo,Swab,Carnivores,domesticated,3,24,31,6,2.49E-06,2.490837868
+Astroviridae,Henan avastrovirus,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,9,4.09E-06,4.09
+Astroviridae,Human astrovirus,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,387,0.000192642,192.6415282
+Astroviridae,Mamastrovirus 3,Dog,Ondo,Swab,Carnivores,domesticated,5,24,31,8,6.36E-07,0.636177641
+Astroviridae,Ovine astrovirus S5.1,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,6,4.77E-07,0.477133231
+Astroviridae,Primate astrovirus,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,16,7.93E-05,79.27542264
+Astroviridae,Xenotilapia nasus astrovirus 2,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,6,2.14E-06,2.141081574
+Botourmiaviridae,Botourmiaviridae sp.,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,199,8.57E-05,85.7
+Botourmiaviridae,Lwood associated botourmia-like virus 17,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,4,1.43E-06,1.427387716
+Caliciviridae,Calicivirus isolate 2117,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,14,7.89E-07,0.788819587
+Caliciviridae,Canine vesivirus,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,15,8.71E-07,0.871377025
+Caliciviridae,Norovirus 09-BI-2/2009/GII.4/NewOrleans/2009,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,101,4.35E-05,43.5
+Caliciviridae,Norovirus GI,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,43,3.42E-06,3.419454821
+Caliciviridae,Norovirus GII,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,220,9.37E-05,93.68585701
+Caliciviridae,Norovirus GII,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,158,8.19E-06,8.193618439
+Caliciviridae,Norovirus GVI,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,4,1.98E-05,19.81885566
+Caliciviridae,Norovirus Hu/GII.17/C142/GF/1978,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,7,3.60E-07,0.359532907
+Caliciviridae,Norovirus Hu/GII.2/CHDC2596/1975/USA,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,10,5.14E-07,0.513618439
+Caliciviridae,Norovirus Hu/GII.2/SnowMountRS/1975/USA,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,66,3.43E-06,3.43
+Caliciviridae,Norovirus Hu/GII/BG1C0301/2011/BGD,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,39,1.68E-05,16.8
+Caliciviridae,Norovirus Hu/GII/Goulburn Valley G5175 B/1983/AUS,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,6,3.08E-07,0.308171063
+Caliciviridae,Norovirus Hu/GII/Toronto/SK/2005/CAN,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,8,2.85E-06,2.854775433
+Caliciviridae,Norovirus env/GGII.4/996/2007/ITA,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,9,3.21E-06,3.211622362
+Caliciviridae,Norovirus sp.,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,24,8.56E-06,8.564326298
+Caliciviridae,Sapovirus Hu/Murshidhabad/SD31,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,9,3.21E-06,3.211622362
+Circoviridae,Canine circovirus,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,1259,0.000120498,120.498
+Coronaviridae,Avian coronavirus,Dog,Ebonyi,Swab,Carnivores,domesticated,4,24,31,8,2.85E-06,2.854775433
+Coronaviridae,Avian coronavirus,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,12,5.45E-06,5.45
+Coronaviridae,Betacoronavirus 1,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,6,1.07E-06,1.072796003
+Coronaviridae,Bovine coronavirus,Dog,Ondo,Swab,Carnivores,domesticated,5,24,31,18,7.47E-06,7.472513604
+Coronaviridae,Human coronavirus OC43,Dog,Ondo,Swab,Carnivores,domesticated,3,24,31,14,5.81E-06,5.811955025
+Coronaviridae,Infectious bronchitis virus,Dog,Ebonyi,Swab,Carnivores,domesticated,5,24,31,20,7.73E-06,7.732163149
+Coronaviridae,Infectious bronchitis virus,Dog,Ondo,Swab,Carnivores,domesticated,5,24,31,10,4.15E-06,4.151396447
+Coronaviridae,Rabbit coronavirus HKU14,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,6,2.49E-06,2.490837868
+Coronaviridae,Turkey coronavirus,Dog,Ebonyi,Swab,Carnivores,domesticated,3,24,31,4,1.43E-06,1.427387716
+Coronaviridae,Yak coronavirus,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,4,1.66E-06,1.660558579
+Genomoviridae,Faeces associated gemycircularvirus 15,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,10,3.57E-06,3.568469291
+Genomoviridae,Genomoviridae sp.,Dog,Ebonyi,Swab,Carnivores,domesticated,6,24,31,22,9.91E-06,9.911782393
+Genomoviridae,Genomoviridae sp.,Dog,Ondo,Swab,Carnivores,domesticated,6,24,31,6,3.38E-07,0.338065537
+Genomoviridae,Giant panda associated gemycircularvirus,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,6,2.14E-06,2.141081574
+Genomoviridae,Giant panda associated gemycircularvirus,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,21,6.26E-06,6.262136617
+Genomoviridae,Gila monster-associated gemycircularvirus,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,5,3.07E-06,3.072453366
+Genomoviridae,bubaline-associated gemykrogvirus,Dog,Ebonyi,Swab,Carnivores,domesticated,4,24,31,11,3.93E-06,3.92531622
+Mimiviridae,Powai lake megavirus,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,16,7.86E-07,0.78576562
+Mitoviridae,Guiyang Paspalum thunbergii mito-like virus 1,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,4,1.43E-06,1.427387716
+Mitoviridae,Hangzhou mitovirus 6,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,4,2.46E-06,2.457962693
+Mitoviridae,Mitoviridae sp.,Dog,Ebonyi,Swab,Carnivores,domesticated,3,24,31,18,1.11E-05,11.06083212
+Narnaviridae,Lwood associated narna-like virus 19,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,4,1.43E-06,1.427387716
+Orthoherpesviridae,Human betaherpesvirus 5,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,34,1.21E-05,12.13279559
+Papillomaviridae,Canine papillomavirus 21,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,15716,0.012539406,12539.40586
+Papillomaviridae,Canis familiaris papillomavirus 13,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,49,6.15E-06,6.148169376
+Papillomaviridae,Canis familiaris papillomavirus 19,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,2895,0.000470304,470.3036039
+Papillomaviridae,Canis familiaris papillomavirus 7,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,854,0.000136306,136.3059297
+Papillomaviridae,Human papillomavirus,Dog,Ebonyi,Swab,Carnivores,domesticated,4,24,31,20,7.14E-06,7.136938582
+Papillomaviridae,Human papillomavirus,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,472,3.35E-05,33.52541781
+Papillomaviridae,Human papillomavirus 17,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,6,2.14E-06,2.141081574
+Papillomaviridae,Human papillomavirus 199,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,6,2.14E-06,2.141081574
+Papillomaviridae,Human papillomavirus 38,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,83,2.59E-05,25.90624305
+Papillomaviridae,human papillomavirus 47,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,4,5.05E-07,0.505127805
+Partitiviridae,Partitiviridae sp.,Dog,Ondo,Swab,Carnivores,domesticated,5,24,31,67,8.61E-06,8.609833991
+Parvoviridae,Adeno-associated virus,Dog,Ebonyi,Swab,Carnivores,domesticated,4,24,31,40,0.000215468,215.4678479
+Parvoviridae,Adeno-associated virus,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,28,2.23E-06,2.226621744
+Parvoviridae,Adeno-associated virus 2 Srivastava/1982,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,6,2.97E-05,29.72828349
+Parvoviridae,Canine minute virus,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,116053,0.008318423,8318.423321
+Parvoviridae,Canine parvovirus,Dog,Ebonyi,Swab,Carnivores,domesticated,6,24,31,59600,0.00986588,9865.88
+Parvoviridae,Canine parvovirus,Dog,Ondo,Swab,Carnivores,domesticated,6,24,31,14387,0.005071615,5071.614911
+Parvoviridae,Canine parvovirus 2c,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,4,2.46E-06,2.457962693
+Parvoviridae,Chicken parvovirus,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,8,3.32E-06,3.321117157
+Parvoviridae,Dependoparvovirus primate1,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,20,0.000122128,122.128
+Parvoviridae,Mink enteritis virus,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,144,2.14E-05,21.37736754
+Parvoviridae,Protoparvovirus carnivoran1,Dog,Ebonyi,Swab,Carnivores,domesticated,3,24,31,151,2.24E-05,22.41654513
+Parvoviridae,Protoparvovirus carnivoran1,Dog,Ondo,Swab,Carnivores,domesticated,3,24,31,8501,0.003858576,3858.575584
+Parvoviridae,adeno-associated virus 2,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,10,4.95E-05,49.54713915
+Picobirnaviridae,Lysoka partiti-like virus,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,394,5.58E-05,55.8
+Picobirnaviridae,Macaque picobirnavirus 27,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,19,1.76E-06,1.764818109
+Picobirnaviridae,Marmot picobirnavirus,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,173,1.66E-05,16.6
+Picobirnaviridae,Picobirnaviridae sp. ct6rZ1,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,291,1.72E-05,17.2
+Picobirnaviridae,Picobirnavirus sp.,Dog,Ebonyi,Swab,Carnivores,domesticated,8,24,31,925,0.00033153,331.5297441
+Picobirnaviridae,Picobirnavirus sp.,Dog,Ondo,Swab,Carnivores,domesticated,8,24,31,22861,0.001951918,1951.918216
+Picobirnaviridae,Porcine picobirnavirus,Dog,Ondo,Swab,Carnivores,domesticated,6,24,31,1474,0.00013543,135.43
+Picobirnaviridae,Simian picobirnavirus,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,20,1.91E-06,1.91
+Picornaviridae,Anativirus sp.,Dog,Ondo,Swab,Carnivores,domesticated,3,24,31,75,7.41E-06,7.406883907
+Picornaviridae,Canine kobuvirus,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,70281,0.008040286,8040.285782
+Picornaviridae,Canine kobuvirus 1,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,6,5.27E-07,0.526864098
+Picornaviridae,Canine picornavirus,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,344,1.78E-05,17.84902638
+Picornaviridae,Chicken picornavirus 1,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,10,4.91E-07,0.491103513
+Picornaviridae,Chicken picornavirus 4,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,47,2.33E-06,2.33
+Picornaviridae,Coxsackievirus A10,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,10,3.57E-06,3.568469291
+Picornaviridae,Coxsackievirus A13,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,87,1.16E-05,11.59
+Picornaviridae,Coxsackievirus A16,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,14,5.00E-06,4.995857007
+Picornaviridae,Coxsackievirus A9,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,12,9.54E-07,0.954266462
+Picornaviridae,Coxsackievirus B2,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,99,1.32E-05,13.2
+Picornaviridae,Coxsackievirus B3,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,11,8.75E-07,0.874744257
+Picornaviridae,Coxsackievirus B4,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,12,9.54E-07,0.954266462
+Picornaviridae,Coxsackievirus B5,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,7,5.57E-07,0.556655436
+Picornaviridae,Echovirus E24,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,857,0.000114123,114.123
+Picornaviridae,Echovirus E25,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,72,9.59E-06,9.59
+Picornaviridae,Echovirus E6,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,6,4.77E-07,0.477133231
+Picornaviridae,Echovirus E7,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,851,4.42E-05,44.2
+Picornaviridae,Enterovirus B,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,9,7.16E-07,0.715699846
+Picornaviridae,Human cosavirus E/D,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,30,1.54E-06,1.540855316
+Picornaviridae,Human enterovirus,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,123,1.63E-05,16.29220129
+Picornaviridae,Human enterovirus,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,16,1.27E-06,1.272355282
+Picornaviridae,Human parechovirus 5,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,28,1.17E-05,11.69423465
+Picornaviridae,Human rhinovirus sp.,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,14,5.00E-06,4.995857007
+Picornaviridae,Kobuvirus sewage Aichi,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,4,2.34E-07,0.233621661
+Picornaviridae,Megrivirus sp.,Dog,Ebonyi,Swab,Carnivores,domesticated,5,24,31,57,2.36E-05,23.59901008
+Picornaviridae,Megrivirus sp.,Dog,Ondo,Swab,Carnivores,domesticated,5,24,31,5,1.49E-06,1.490984909
+Picornaviridae,Ovine hungarovirus OHUV1/2009/HUN,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,4,3.18E-07,0.318088821
+Picornaviridae,Parechovirus A,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,30,1.29E-05,12.9
+Picornaviridae,Parechovirus A,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,9,7.90E-07,0.790296147
+Picornaviridae,Picornavirales sp.,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,528,2.62E-05,26.2
+Picornaviridae,Poliovirus 2,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,148,1.97E-05,19.7
+Picornaviridae,Rhinovirus A,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,62,2.67E-05,26.7
+Picornaviridae,Sicinivirus A,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,66,3.26E-06,3.255089835
+Picornaviridae,Sicinivirus sp.,Dog,Ondo,Swab,Carnivores,domesticated,3,24,31,81,4.00E-06,3.99729686
+Picornaviridae,aichivirus A2,Dog,Ondo,Swab,Carnivores,domesticated,2,24,31,14,8.18E-07,0.817675815
+Picornaviridae,enterovirus A114,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,6,2.14E-06,2.141081574
+Picornaviridae,megrivirus C2,Dog,Ebonyi,Swab,Carnivores,domesticated,4,24,31,38,1.36E-05,13.56018331
+Picornaviridae,megrivirus C2,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,18,6.54E-06,6.536972301
+Picornaviridae,rhinovirus A31,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,55,2.37E-05,23.7
+Picornaviridae,rhinovirus A78,Dog,Ebonyi,Swab,Carnivores,domesticated,1,24,31,9,3.21E-06,3.211622362
+Polyomaviridae,Betapolyomavirus canis,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,24,1.37E-06,1.368852355
+Poxviridae,Orf virus,Dog,Ondo,Swab,Carnivores,domesticated,7,24,31,4,2.34E-07,0.233621661
+Sedoreoviridae,Human rotavirus A,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,705,5.84E-05,58.4
+Sedoreoviridae,Porcine rotavirus A,Dog,Ebonyi,Swab,Carnivores,domesticated,4,24,31,8,4.92E-06,4.915925386
+Sedoreoviridae,Rotavirus A,Dog,Ebonyi,Swab,Carnivores,domesticated,4,24,31,8,4.92E-06,4.915925386
+Sedoreoviridae,Rotavirus A,Dog,Ondo,Swab,Carnivores,domesticated,4,24,31,3463,0.00028693,286.93
+Sedoreoviridae,Rotavirus F,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,14,5.00E-06,4.995857007
+Sedoreoviridae,Rotavirus G,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,4,1.19E-06,1.192787927
+Sedoreoviridae,Rotavirus G chicken/03V0567/DEU/2003,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,15,4.47E-06,4.472954727
+Unclassifed,Erwinia phage phiAT1,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,4,7.15E-07,0.715197335
+Unclassifed,Hainan astro-like virus 1,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,9,3.21E-06,3.211622362
+Unclassifed,Hainan astro-like virus 2,Dog,Ebonyi,Swab,Carnivores,domesticated,2,24,31,23,9.24E-06,9.241622362
+Unclassifed,Prokaryotic dsDNA virus sp.,Dog,Ondo,Swab,Carnivores,domesticated,1,24,31,8,3.93E-07,0.39288281
+Unclassifed,Riboviria sp.,Dog,Ondo,Swab,Carnivores,domesticated,3,24,31,12,1.11E-06,1.114621964
+Adintoviridae,Terrapene box turtle adintovirus,Egret,Ondo,Liver,Carnivores,wild,3,8,10,16,1.42E-06,1.420015144
+Hepadnaviridae,Duck hepatitis B virus,Egret,Ondo,Liver,Carnivores,wild,1,8,10,20,2.37E-06,2.369338471
+Circoviridae,robinz virus RP_259,Egret,Ondo,Lung,Carnivores,wild,1,8,10,11,6.78E-07,0.678126215
+Hepadnaviridae,Duck hepatitis B virus,Egret,Ondo,Lung,Carnivores,wild,1,8,10,39,2.84E-06,2.839351583
+Hepadnaviridae,Lamprologini metahepadnavirus,Egret,Ondo,Lung,Carnivores,wild,1,8,10,8,3.71E-07,0.37103614
+Adenoviridae,Bovine adenovirus 2,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,18,9.36E-07,0.935804243
+Adenoviridae,Fowl adenovirus 8a,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,48,6.29E-06,6.285840751
+Adenoviridae,Fowl aviadenovirus E,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,45,6.28E-06,6.28
+Adenoviridae,Human adenovirus 12,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,1371,0.000125123,125.1230914
+Adenoviridae,Human adenovirus 41,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,16,2.10E-06,2.09528025
+Adenoviridae,Human adenovirus 76,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,46,4.21E-06,4.21
+Adenoviridae,Human mastadenovirus C,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,6,5.40E-07,0.540080645
+Adenoviridae,Ovine adenovirus 4,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,10,5.11E-07,0.511340405
+Adenoviridae,Pan troglodytes verus adenovirus 8,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,20,1.80E-06,1.800268816
+Anelloviridae,Chicken anemia virus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,18,2.36E-06,2.357190282
+Anelloviridae,Nayun tick torquevirus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,3,43,46,80,7.27E-06,7.270483869
+Astroviridae,Human astrovirus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,743,6.80E-05,67.99028226
+Astroviridae,Human astrovirus,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,32,1.86E-06,1.857954933
+Astroviridae,Human astrovirus 1,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,10,1.31E-06,1.309550156
+Astroviridae,Human astrovirus 1,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,32,1.90E-06,1.900610916
+Astroviridae,Human astrovirus MLB3,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,101,9.24E-06,9.24
+Astroviridae,Mamastrovirus 1,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,19,1.14E-06,1.14
+Betaflexiviridae,Cowpea mild mottle virus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,341,2.50E-05,25.02113007
+Bromoviridae,Cucumber mosaic virus,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,972,4.94E-05,49.36686204
+Caliciviridae,Norovirus GII,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,342,4.66E-05,46.55988213
+Caliciviridae,Norovirus Hu/GII/2005/6300/St. Petersburg/RUS,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,18,2.36E-06,2.357190282
+Caliciviridae,Norovirus Hu/OC02202/2002/JP,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,8,1.05E-06,1.047640125
+Caliciviridae,Sapovirus Hu/Kumamoto130/Jul2010/JPN,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,12422,0.001136527,1136.527
+Circoviridae,Chicken cyclovirus mg5_2967,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,10,5.01E-07,0.500546296
+Circoviridae,Cyclovirus TN15,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,6,5.14E-07,0.514112825
+Genomoviridae,Cassava associated gemycircularvirus 1,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,8,5.80E-07,0.579574659
+Genomoviridae,Faeces associated gemycircularvirus 15,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,8,3.06E-07,0.305999612
+Genomoviridae,Finch associated genomovirus 7,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,4,1.53E-07,0.152999806
+Genomoviridae,Genomoviridae sp.,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,6,43,46,191,2.48E-05,24.76675854
+Genomoviridae,Genomoviridae sp.,Goat,Ondo,Oral,Herbivores,peri-domesticated,6,43,46,132,5.45E-06,5.446200685
+Genomoviridae,Gila monster-associated gemycircularvirus,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,22,9.96E-07,0.996108001
+Genomoviridae,Gila monster-associated gemycircularvirus 1,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,3,43,46,8,7.20E-07,0.720107526
+Genomoviridae,Murine feces-associated gemycircularvirus 2,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,117,4.48E-06,4.475244325
+Genomoviridae,Raccoon dog stool-associated gemycircularvirus 1,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,533,6.98E-05,69.79902334
+Mitoviridae,Mitovirus JS3,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,24,2.20E-06,2.2
+Orthoherpesviridae,Alcelaphine gammaherpesvirus 1,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,4,2.02E-07,0.202022202
+Orthoherpesviridae,Alcelaphine gammaherpesvirus 2,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,6,3.03E-07,0.303033303
+Orthoherpesviridae,Bovine gammaherpesvirus 6,Goat,Ondo,Oral,Herbivores,peri-domesticated,3,43,46,26,1.31E-06,1.313144312
+Orthoherpesviridae,Caprine gammaherpesvirus 2,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,56,4.92E-06,4.915449873
+Orthoherpesviridae,Caprine gammaherpesvirus 2,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,81,4.19E-06,4.193033303
+Orthoherpesviridae,Gallid alphaherpesvirus 2,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,4,43,46,4,3.51E-07,0.351103562
+Orthoherpesviridae,Ovine gammaherpesvirus 2,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,4,3.51E-07,0.351103562
+Orthoherpesviridae,Ovine gammaherpesvirus 2,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,70,3.55E-06,3.545344128
+Orthoherpesviridae,human gammaherpesvirus 4,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,401,4.41E-05,44.1
+Papillomaviridae,Gammapapillomavirus sp.,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,4,2.02E-07,0.202022202
+Papillomaviridae,Human papillomavirus 5,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,14,7.07E-07,0.707077706
+Paramyxoviridae,peste-des-petits-ruminants virus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,4,43,46,5455,0.000496654,496.654
+Parvoviridae,Adeno-associated virus,Goat,Ondo,Oral,Herbivores,peri-domesticated,4,43,46,4,2.32E-07,0.232244367
+Parvoviridae,Dependoparvovirus sp.,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,3,43,46,7,9.17E-07,0.916685109
+Parvoviridae,Protoparvovirus carnivoran1,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,3,43,46,2423,0.000338139,338.139
+Parvoviridae,Protoparvovirus sp.,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,294,1.14E-05,11.42274656
+Picobirnaviridae,Bovine picobirnavirus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,4,43,46,4018,0.000296131,296.130837
+Picobirnaviridae,Bovine picobirnavirus,Goat,Ondo,Oral,Herbivores,peri-domesticated,4,43,46,81,4.27E-06,4.273223148
+Picobirnaviridae,Fox picobirnavirus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,47,3.41E-06,3.405001121
+Picobirnaviridae,Marmot picobirnavirus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,4,43,46,597,4.41E-05,44.0737242
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-33,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,40,2.90E-06,2.897873294
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-7,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,16,1.16E-06,1.159149318
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-76,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,18,9.01E-07,0.900983333
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-9,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,57,4.13E-06,4.129469444
+Picobirnaviridae,Picobirnavirus sp.,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,8,43,46,10532,0.000872152,872.1520261
+Picobirnaviridae,Picobirnavirus sp.,Goat,Ondo,Oral,Herbivores,peri-domesticated,8,43,46,281,1.62E-05,16.17105044
+Picobirnaviridae,Porcine picobirnavirus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,6,43,46,1259,9.70E-05,96.98255878
+Picobirnaviridae,Porcine picobirnavirus,Goat,Ondo,Oral,Herbivores,peri-domesticated,6,43,46,198,1.05E-05,10.45060093
+Picobirnaviridae,Simian picobirnavirus,Goat,Ondo,Oral,Herbivores,peri-domesticated,4,43,46,58,3.04E-06,3.04
+Picornaviridae,Aichi virus A846/88,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,40,3.60E-06,3.600537632
+Picornaviridae,Canine kobuvirus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,65187,0.006159618,6159.618118
+Picornaviridae,Canine kobuvirus 1,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,18235,0.001668314,1668.313565
+Picornaviridae,Canine kobuvirus US-PC0082,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,411,3.70E-05,36.99552417
+Picornaviridae,Cosavirus A,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,27,2.43E-06,2.430362902
+Picornaviridae,Coxsackievirus A20,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,7,6.40E-07,0.64
+Picornaviridae,Coyote tobacco stunting virus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,1335,9.85E-05,98.5
+Picornaviridae,Coypu kobuvirus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,36,3.24E-06,3.240483869
+Picornaviridae,Human cosavirus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,83,7.63E-06,7.634881886
+Picornaviridae,Human hepatitis A virus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,6537,0.00059809,598.09
+Picornaviridae,Human parechovirus 2,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,18,1.63E-06,1.630147849
+Picornaviridae,Human poliovirus 1 Mahoney,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,16,1.44E-06,1.440215053
+Picornaviridae,Kobuvirus aichi,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,91,8.19E-06,8.191223113
+Picornaviridae,Kobuvirus sewage Aichi,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,4227,0.000380486,380.4864489
+Picornaviridae,Kobuvirus sp.,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,94,8.46E-06,8.461263436
+Picornaviridae,Megrivirus sp.,Goat,Ondo,Oral,Herbivores,peri-domesticated,5,43,46,4035,0.000205073,205.073
+Picornaviridae,Parechovirus A,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,5,4.50E-07,0.450067204
+Picornaviridae,Picornavirus chicken/CHK1/USA/2010,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,40,5.24E-06,5.238200626
+Picornaviridae,Poliovirus 3,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,6,5.40E-07,0.540080645
+Picornaviridae,Sicinivirus A,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,40,5.24E-06,5.238200626
+Picornaviridae,Sicinivirus sp.,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,3,43,46,18,2.36E-06,2.357190282
+Picornaviridae,Vixey virus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,47,4.23E-06,4.230631718
+Picornaviridae,aichivirus A2,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,4315,0.000394431,394.4312796
+Picornaviridae,cosavirus A20,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,45,4.12E-06,4.12
+Picornaviridae,megrivirus C1,Goat,Ondo,Oral,Herbivores,peri-domesticated,3,43,46,27,1.35E-06,1.351475
+Picornaviridae,parechovirus A1,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,56,5.12E-06,5.12
+Pneumoviridae,Bovine orthopneumovirus,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,413,2.14E-05,21.44371456
+Pneumoviridae,Respiratory syncytial virus,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,22,1.12E-06,1.124948892
+Pneumoviridae,bovine respiratory syncytial virus,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,10,5.11E-07,0.511340405
+Pneumoviridae,human respiratory syncytial virus,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,19,9.72E-07,0.97154677
+Polyomaviridae,Merkel cell polyomavirus,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,253,1.31E-05,13.06316651
+Potyviridae,Yambean mosaic virus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,137,1.01E-05,10.06063913
+Poxviridae,Molluscum contagiosum virus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,3,43,46,10,8.57E-07,0.856854709
+Poxviridae,Molluscum contagiosum virus subtype 1,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,3,43,46,34,2.98E-06,2.98438028
+Poxviridae,Orf virus,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,7,43,46,181,1.57E-05,15.73483556
+Poxviridae,Orf virus,Goat,Ondo,Oral,Herbivores,peri-domesticated,7,43,46,185422,0.007334544,7334.543794
+Rhabdoviridae,Citrus leprosis virus nuclear type,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,57,4.18E-06,4.182423999
+Rhabdoviridae,Rhabdovirus YHG-2013,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,19,1.63E-06,1.628023947
+Sedoreoviridae,Human rotavirus A,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,4,43,46,104,9.39E-06,9.391129028
+Sedoreoviridae,Rotavirus A,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,4,43,46,405,3.68E-05,36.83205644
+Sedoreoviridae,Rotavirus A,Goat,Ondo,Oral,Herbivores,peri-domesticated,4,43,46,4,2.02E-07,0.202022202
+Sedoreoviridae,Rotavirus F,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,2,43,46,4,5.24E-07,0.523820063
+Sedoreoviridae,Rotavirus sp.,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,55,7.68E-06,7.68
+Tobaniviridae,Antelope torovirus,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,47,2.75E-06,2.754016024
+Tobaniviridae,Bovine torovirus,Goat,Ondo,Oral,Herbivores,peri-domesticated,1,43,46,46,2.67E-06,2.670810216
+Tobaniviridae,Breda virus,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,199,1.18E-05,11.84232148
+Tobaniviridae,Goat torovirus,Goat,Ondo,Oral,Herbivores,peri-domesticated,3,43,46,371,2.20E-05,22.03162043
+Tobaniviridae,Torovirus sp.,Goat,Ondo,Oral,Herbivores,peri-domesticated,2,43,46,106,6.31E-06,6.311160741
+Tombusviridae,Gompholobium virus A,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,10,7.24E-07,0.724468324
+Tombusviridae,Trailing lespedeza virus 1,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,553,4.08E-05,40.8
+Unclassifed,Lake Sarah-associated circular virus-6,Goat,Ebonyi ,Oral,Herbivores,peri-domesticated,1,43,46,26,2.23E-06,2.227822244
+Adenoviridae,Fowl adenovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,3188,0.000134789,134.7890682
+Adenoviridae,Fowl aviadenovirus 2,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,123,4.23E-06,4.225403647
+Adenoviridae,Fowl aviadenovirus 3,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,8,4.48E-07,0.447701823
+Adenoviridae,Fowl aviadenovirus 5,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,28,1.57E-06,1.566956382
+Adenoviridae,Fowl aviadenovirus 8,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,4,2.24E-07,0.223850912
+Adenoviridae,Fowl aviadenovirus D,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,12134,0.000444548,444.54759
+Adenoviridae,Ovine adenovirus 6,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,1,43,46,18,1.46E-06,1.461348311
+Adenoviridae,Ovine adenovirus 8,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,1,43,46,32,2.66E-06,2.664232208
+Astroviridae,Astrovirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,19,5.88E-07,0.587823163
+Astroviridae,Bovine astrovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,124,5.11E-06,5.107782559
+Astroviridae,Bovine astrovirus B170/HK,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,27,8.42E-07,0.842
+Astroviridae,Caprine astrovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,13,6.00E-07,0.600275129
+Astroviridae,Chicken astrovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,146,4.77E-06,4.772425775
+Astroviridae,Mamastrovirus 13,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,50,2.33E-06,2.329675209
+Astroviridae,Mamastrovirus 3,Goat,Ondo,Rectal,Herbivores,peri-domesticated,5,43,46,54,2.69E-06,2.689204896
+Astroviridae,Ovine astrovirus S5.1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,37,1.73E-06,1.73
+Astroviridae,Ovine astrovirus S6.1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,799,3.74E-05,37.4
+Astroviridae,Turkey astrovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,224,8.32E-06,8.323693483
+Astroviridae,Turkey astrovirus 1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,32,1.80E-06,1.803180014
+Astroviridae,Water buffalo astrovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,262,8.17E-06,8.17
+Betaflexiviridae,Cowpea mild mottle virus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,1,43,46,53,4.30E-06,4.302858917
+Blumeviridae,ssRNA phage SRR7976310_4,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,9,6.47E-07,0.646550238
+Caliciviridae,Canine vesivirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,4,2.87E-07,0.287355661
+Caliciviridae,Chicken calicivirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,10,5.60E-07,0.559627279
+Caliciviridae,Sapovirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,12,8.62E-07,0.862066984
+Coronaviridae,Alpaca coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,50,2.31E-06,2.308750497
+Coronaviridae,Bamboo rat coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,16,7.39E-07,0.738800159
+Coronaviridae,Betacoronavirus 1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,4,43,46,276853,0.013942553,13942.55344
+Coronaviridae,Bovine coronavirus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,5,43,46,24,1.97E-06,1.96697869
+Coronaviridae,Bovine coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,5,43,46,259726,0.012141383,12141.38282
+Coronaviridae,Bovine coronavirus Mebus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,91,4.20E-06,4.201925904
+Coronaviridae,Bovine coronavirus isolate Alpaca,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,18046,0.000845432,845.4319031
+Coronaviridae,Bovine-like coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,15,6.93E-07,0.692625149
+Coronaviridae,Camel coronavirus HKU23,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,432,1.99E-05,19.94760429
+Coronaviridae,Canine respiratory coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,5844,0.000270082,270.081916
+Coronaviridae,Coronaviridae sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,104,4.80E-06,4.802201033
+Coronaviridae,Coronavirus RCoV/Lmg115/Sig_spec/MEX/2011,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,174,8.03E-06,8.034451729
+Coronaviridae,Dromedary camel coronavirus HKU23,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,78818,0.003751606,3751.605853
+Coronaviridae,Embecovirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,17,7.85E-07,0.784975169
+Coronaviridae,Equine coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,2568,0.000118577,118.5774255
+Coronaviridae,Guinea fowl coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,12,8.62E-07,0.862066984
+Coronaviridae,Human coronavirus HKU1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,270,1.25E-05,12.46725268
+Coronaviridae,Human coronavirus OC43,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,25578,0.001183889,1183.889115
+Coronaviridae,Human enteric coronavirus 4408,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,266,1.23E-05,12.28255264
+Coronaviridae,Infectious bronchitis virus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,5,43,46,11,8.93E-07,0.89304619
+Coronaviridae,Longquan Aa mouse coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,84,3.88E-06,3.878700835
+Coronaviridae,Longquan Niviventer niviventer betacoronavirus 1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,101,4.66E-06,4.663676004
+Coronaviridae,Mouse coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,34,1.57E-06,1.569950338
+Coronaviridae,Murine coronavirus MHV-3,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,62,2.86E-06,2.862850616
+Coronaviridae,Murine hepatitis virus strain JHM,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,38,1.75E-06,1.754650378
+Coronaviridae,Pheasant coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,6,4.31E-07,0.431033492
+Coronaviridae,Porcine hemagglutinating encephalomyelitis virus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,12622,0.000582821,582.8207454
+Coronaviridae,Rabbit coronavirus HKU14,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,690,3.19E-05,31.86075686
+Coronaviridae,Rodent coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,73,3.37E-06,3.370775725
+Coronaviridae,Sambar deer coronavirus US/OH-WD388-TC/1994,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,8184,0.000383506,383.506
+Coronaviridae,Water deer coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,11,5.08E-07,0.507925109
+Coronaviridae,Yak coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,212,9.83E-06,9.828252979
+Coronaviridae,unidentified human coronavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,91,4.20E-06,4.201925904
+Genomoviridae,Chicken stool-associated gemycircularvirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,4,43,46,54,2.45E-06,2.446419973
+Genomoviridae,Genomoviridae sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,6,43,46,1615,9.02E-05,90.20826859
+Genomoviridae,Human associated gemykibivirus 2,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,5,43,46,17,1.39E-06,1.393276572
+Orthoherpesviridae,Canid alphaherpesvirus 1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,24,1.72E-06,1.724133968
+Orthoherpesviridae,Caprine alphaherpesvirus 1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,18,1.29E-06,1.293100476
+Orthoherpesviridae,Ovine gammaherpesvirus 2,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,4,1.85E-07,0.18470004
+Orthoherpesviridae,human gammaherpesvirus 4,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,1,43,46,181,1.18E-05,11.8
+Paramyxoviridae,Morbillivirus caprinae,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,1,43,46,20,1.64E-06,1.639148908
+Paramyxoviridae,peste-des-petits-ruminants virus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,4,43,46,26893,0.001759661,1759.661
+Partitiviridae,Partitiviridae sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,5,43,46,103,6.03E-06,6.02595568
+Parvoviridae,Avian adeno-associated virus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,483,2.72E-05,27.15036637
+Parvoviridae,Avian adeno-associated virus strain DA-1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,333,1.91E-05,19.1
+Parvoviridae,Bovine adeno-associated virus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,6,6.46E-07,0.645547786
+Parvoviridae,Dependoparvovirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,283,8.82E-06,8.823752245
+Parvoviridae,Tusavirus 1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,4,1.24E-07,0.123752245
+Parvoviridae,adeno-associated virus 5,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,6,6.46E-07,0.645547786
+Picobirnaviridae,Bovine picobirnavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,4,43,46,180,1.32E-05,13.21378712
+Picobirnaviridae,Chicken picobirnavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,16,1.15E-06,1.149422645
+Picobirnaviridae,Dromedary picobirnavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,4,43,46,61,3.50E-06,3.501739095
+Picobirnaviridae,Fox picobirnavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,183,1.05E-05,10.5
+Picobirnaviridae,Human picobirnavirus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,3,43,46,9,7.31E-07,0.730674156
+Picobirnaviridae,Human picobirnavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,27,1.55E-06,1.55
+Picobirnaviridae,Marmot picobirnavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,4,43,46,330,1.90E-05,18.99400434
+Picobirnaviridae,Mongoose picobirnavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,1868,5.82E-05,58.2
+Picobirnaviridae,Picobirnaviridae sp.,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,3,43,46,6,4.87E-07,0.487116104
+Picobirnaviridae,Picobirnaviridae sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,548,3.36E-05,33.55388759
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-24,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,19,1.36E-06,1.364939391
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-57,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,225,1.27E-05,12.70188948
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-63,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,16,9.03E-07,0.903245474
+Picobirnaviridae,Picobirnavirus sp.,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,8,43,46,18204,0.001159227,1159.227179
+Picobirnaviridae,Picobirnavirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,8,43,46,13334,0.000764202,764.2021815
+Picobirnaviridae,Porcine picobirnavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,6,43,46,5216,0.000320687,320.68722
+Picobirnaviridae,Shelduck picobirnavirus II,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,13,7.34E-07,0.733886948
+Picobirnaviridae,Turkey picobirnavirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,14,8.06E-07,0.806
+Picornaviridae,Bopivirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,309,1.76E-05,17.64465821
+Picornaviridae,Bovine kobuvirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,43,2.41E-06,2.406397301
+Picornaviridae,Bovine rhinitis B virus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,10,4.62E-07,0.461750099
+Picornaviridae,Caprine kobuvirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,14,4.33E-07,0.433132857
+Picornaviridae,Chicken picornavirus 4,Goat,Ondo,Rectal,Herbivores,peri-domesticated,4,43,46,7,3.95E-07,0.395169895
+Picornaviridae,Chicken picornavirus UCC13,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,23,1.30E-06,1.298415369
+Picornaviridae,Chicken sicinivirus JSY,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,4,1.24E-07,0.123752245
+Picornaviridae,Kobuvirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,102,5.07E-06,5.071483
+Picornaviridae,Megrivirus C,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,13,4.02E-07,0.402194796
+Picornaviridae,Megrivirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,5,43,46,2748,0.000133357,133.3572028
+Picornaviridae,Orivirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,34,1.90E-06,1.90273275
+Picornaviridae,Picornaviridae sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,86,3.95E-06,3.954690306
+Picornaviridae,Sicinivirus A,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,114,6.42E-06,6.421581656
+Picornaviridae,Sicinivirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,196,8.87E-06,8.866015967
+Picornaviridae,Wufeng rodent picorna-like virus 2,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,8,3.75E-07,0.375
+Picornaviridae,aichivirus B3,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,167,9.53E-06,9.525030926
+Picornaviridae,megrivirus C1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,30,1.03E-06,1.034130042
+Picornaviridae,megrivirus C2,Goat,Ondo,Rectal,Herbivores,peri-domesticated,4,43,46,184,9.00E-06,8.999850462
+Picornaviridae,sicinivirus A1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,10,5.65E-07,0.564528421
+Poxviridae,Molluscum contagiosum virus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,3,43,46,12,9.83E-07,0.983489345
+Poxviridae,Orf virus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,7,43,46,54,4.38E-06,4.384044934
+Poxviridae,Orf virus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,7,43,46,226,1.67E-05,16.72987737
+Sedoreoviridae,Rotavirus F,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,1099,5.48E-05,54.80695422
+Sedoreoviridae,Rotavirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,400,1.98E-05,19.78169929
+Tobaniviridae,Antelope torovirus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,2,43,46,994,8.15E-05,81.46570073
+Tobaniviridae,Antelope torovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,46189,0.001436729,1436.728903
+Tobaniviridae,Bangali torovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,1745,5.40E-05,53.98691679
+Tobaniviridae,Berne virus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,1,43,46,178,1.46E-05,14.58842528
+Tobaniviridae,Berne virus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,3688,0.0001146,114.600063
+Tobaniviridae,Bovine torovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,17155,0.000531582,531.5820643
+Tobaniviridae,Breda virus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,92777,0.002886422,2886.422027
+Tobaniviridae,Goat torovirus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,3,43,46,238676,0.02004321,20043.21011
+Tobaniviridae,Goat torovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,374068,0.011659254,11659.254
+Tobaniviridae,Henan torovirus 1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,57,1.76E-06,1.763469488
+Tobaniviridae,Hubei torovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,78,2.41E-06,2.413168773
+Tobaniviridae,Porcine torovirus,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,1,43,46,839,6.88E-05,68.76229669
+Tobaniviridae,Porcine torovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,9099,0.000281505,281.5054188
+Tobaniviridae,Torovirus sp.,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,2,43,46,33,2.70E-06,2.704595698
+Tobaniviridae,Torovirus sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,2,43,46,60441,0.001879533,1879.533445
+Tombusviridae,Golovinomyces cichoracearum associated tombus-like virus 1,Goat,Ebonyi ,Rectal,Herbivores,peri-domesticated,1,43,46,4,3.28E-07,0.327829782
+Totiviridae,Dali Totiv tick virus 1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,10,5.60E-07,0.559627279
+Totiviridae,Erysiphe necator associated totivirus 8,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,6,3.36E-07,0.335776368
+Totiviridae,Malassezia sympodialis mycovirus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,6,3.36E-07,0.335776368
+Totiviridae,Totiviridae sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,44,2.51E-06,2.511739095
+Unclassifed,Jingmen picorna-like virus,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,80,4.60E-06,4.6
+Unclassifed,Monexpicovirus 1,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,17,7.92E-07,0.79222507
+Unclassifed,Monexpicovirus 2,Goat,Ondo,Rectal,Herbivores,peri-domesticated,1,43,46,25,1.17E-06,1.172
+Unclassifed,Riboviria sp.,Goat,Ondo,Rectal,Herbivores,peri-domesticated,3,43,46,2000,9.38E-05,93.83365864
+Adenoviridae,Fowl adenovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,121,8.22E-06,8.22327248
+Adenoviridae,Fowl aviadenovirus 11,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,10,6.66E-07,0.666110243
+Adenoviridae,Fowl aviadenovirus 2,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,85,5.80E-06,5.798163801
+Adenoviridae,Fowl aviadenovirus 8,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,22,1.50E-06,1.501888194
+Adenoviridae,Fowl aviadenovirus D,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,347,2.37E-05,23.70737803
+Adenoviridae,Ovine adenovirus 4,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,6,4.73E-07,0.473136269
+Adenoviridae,Ovine mastadenovirus A,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,4,3.15E-07,0.315424179
+Astroviridae,Bovine astrovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,86,7.30E-06,7.295502541
+Astroviridae,Caprine astrovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,220,1.88E-05,18.77106833
+Astroviridae,Human astrovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,10,4.39E-07,0.438686345
+Astroviridae,Human astrovirus 5,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,4,1.75E-07,0.175474538
+Astroviridae,Mamastrovirus 3,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,5,43,46,24,1.13E-06,1.128103569
+Astroviridae,Mamastrovirus 3,Goat,Ondo,Swab,Herbivores,peri-domesticated,5,43,46,32,9.06E-07,0.905548103
+Betaflexiviridae,Cowpea mild mottle virus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,20,8.18E-07,0.817565514
+Betaflexiviridae,Cowpea mild mottle virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,6,3.91E-07,0.391432942
+Betaflexiviridae,Karelinia prunevirus A,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,6,2.52E-07,0.252425472
+Caliciviridae,Norovirus Hu/Kolkata/V1370,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,7,1.95E-07,0.194566459
+Circoviridae,Cyclovirus NG14,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,6,3.91E-07,0.391432942
+Circoviridae,Cyclovirus TN8,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,8,3.64E-07,0.363901118
+Circoviridae,Cyclovirus ZM62,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,14,6.37E-07,0.636826957
+Circoviridae,Porcine stool-associated circular virus 4,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,62,5.30E-06,5.3
+Coronaviridae,Avian coronavirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,4,43,46,108,7.28E-06,7.283564603
+Coronaviridae,Betacoronavirus 1,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,4,43,46,88074,0.002469223,2469.22256
+Coronaviridae,Betacoronavirus 1,Goat,Ondo,Swab,Herbivores,peri-domesticated,4,43,46,11,4.66E-07,0.465950103
+Coronaviridae,Bovine coronavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,5,43,46,224570,0.006295771,6295.770909
+Coronaviridae,Bovine coronavirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,5,43,46,10,7.89E-07,0.788560448
+Coronaviridae,Canine respiratory coronavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,3,43,46,62,1.72E-06,1.723302925
+Coronaviridae,Canine respiratory coronavirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,3,43,46,4,1.69E-07,0.169436401
+Coronaviridae,Coronavirus Susurluk10,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,73,2.03E-06,2.029050218
+Coronaviridae,Dromedary camel coronavirus HKU23,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,2,43,46,2328,6.47E-05,64.7072453
+Coronaviridae,Equine coronavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,63,1.75E-06,1.751098133
+Coronaviridae,Human coronavirus OC43,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,3,43,46,593,1.65E-05,16.48255862
+Coronaviridae,Infectious bronchitis virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,5,43,46,109,7.03E-06,7.032144769
+Coronaviridae,Longquan Aa mouse coronavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,79,2.20E-06,2.195821468
+Coronaviridae,Porcine hemagglutinating encephalomyelitis virus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,2,43,46,896,2.49E-05,24.90450678
+Coronaviridae,Porcine hemagglutinating encephalomyelitis virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,4,1.69E-07,0.169436401
+Coronaviridae,Rabbit coronavirus HKU14,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,2,43,46,100,2.78E-06,2.779520846
+Coronaviridae,Rat coronavirus Parker,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,29,8.06E-07,0.806061045
+Coronaviridae,Rodent coronavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,239,6.64E-06,6.643054823
+Coronaviridae,Turkey coronavirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,3,43,46,40,2.42E-06,2.424302902
+Geminiviridae,Begomovirus manihotis,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,43,1.81E-06,1.809049217
+Genomoviridae,Chicken stool-associated gemycircularvirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,4,43,46,1945,0.000129558,129.558
+Genomoviridae,Duck associated circular virus VC9,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,12,9.46E-07,0.946272538
+Genomoviridae,Faeces associated gemycircularvirus 15,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,6,4.73E-07,0.473136269
+Genomoviridae,Genomoviridae sp.,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,6,43,46,24,9.36E-07,0.935820203
+Genomoviridae,Genomoviridae sp.,Goat,Ondo,Swab,Herbivores,peri-domesticated,6,43,46,33,2.16E-06,2.163858786
+Genomoviridae,Gila monster-associated gemycircularvirus 1,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,3,43,46,4,1.15E-07,0.11492142
+Genomoviridae,Human associated gemykibivirus 2,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,5,43,46,42,1.93E-06,1.927353813
+Genomoviridae,Momordica charantia associated gemycircularvirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,89,5.81E-06,5.806255307
+Genomoviridae,Porcine genomovirus-2,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,13,4.94E-07,0.493607766
+Genomoviridae,bubaline-associated gemykrogvirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,4,43,46,4,1.15E-07,0.11492142
+Genomoviridae,finch CRESS-DNA virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,185,1.23E-05,12.32303949
+Mimiviridae,Moumouvirus Monve,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,4,1.68E-07,0.168283648
+Orthoherpesviridae,Caprine gammaherpesvirus 2,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,47,3.44E-06,3.436410191
+Orthoherpesviridae,Human betaherpesvirus 5,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,40,3.15E-06,3.154241793
+Orthoherpesviridae,Human herpesvirus 5 strain Merlin,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,4,3.15E-07,0.315424179
+Orthoherpesviridae,Ovine gammaherpesvirus 2,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,72,5.74E-06,5.738946196
+Papillomaviridae,Human papillomavirus 4,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,5,1.44E-07,0.143651775
+Partitiviridae,Mute swan feces associated partitiviridae E,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,13,8.63E-07,0.862574498
+Partitiviridae,Partitiviridae sp.,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,5,43,46,318,1.39E-05,13.86163015
+Partitiviridae,Partitiviridae sp. gcode 4,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,8,2.97E-07,0.297057556
+Parvoviridae,Adeno-associated virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,4,43,46,22,1.73E-06,1.734832986
+Parvoviridae,Canine parvovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,6,43,46,11,7.33E-07,0.732721267
+Parvoviridae,Chicken parvovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,12,7.08E-07,0.708362732
+Parvoviridae,Protoparvovirus sp.,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,79,5.87E-06,5.869299942
+Parvoviridae,adeno-associated virus 2,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,8,6.31E-07,0.630848359
+Phycodnaviridae,Acanthocystis turfacea Chlorella virus Br0604L,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,17,8.58E-07,0.858085304
+Picobirnaviridae,Agile wallaby-associated picobirnavirus 9,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,21,9.54E-07,0.954
+Picobirnaviridae,Bovine picobirnavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,4,43,46,713,3.28E-05,32.75
+Picobirnaviridae,Bovine picobirnavirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,4,43,46,836,6.82E-05,68.2
+Picobirnaviridae,Chicken picobirnavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,2,43,46,7,2.83E-07,0.282565514
+Picobirnaviridae,Chicken picobirnavirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,5,1.86E-07,0.185660972
+Picobirnaviridae,Dromedary picobirnavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,4,43,46,88,3.44E-06,3.435833348
+Picobirnaviridae,Dromedary picobirnavirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,4,43,46,2467,9.33E-05,93.3
+Picobirnaviridae,Fox picobirnavirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,1288,4.87E-05,48.7
+Picobirnaviridae,Hubei picobirnavirus 52,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,10,4.04E-07,0.40366502
+Picobirnaviridae,Human picobirnavirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,3,43,46,41,1.54E-06,1.538765003
+Picobirnaviridae,Marmot picobirnavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,4,43,46,40,2.29E-06,2.290280025
+Picobirnaviridae,Picobirnaviridae sp.,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,3,43,46,29,1.09E-06,1.091527847
+Picobirnaviridae,Picobirnaviridae sp.,Goat,Ondo,Swab,Herbivores,peri-domesticated,3,43,46,110,6.35E-06,6.353949802
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-24,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,143,6.42E-06,6.422320786
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-70,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,2456,9.12E-05,91.19666963
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-73,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,12,4.84E-07,0.484398024
+Picobirnaviridae,Picobirnavirus SPBV-3,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,22,1.52E-06,1.52
+Picobirnaviridae,Picobirnavirus sp.,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,8,43,46,19789,0.000894682,894.6823234
+Picobirnaviridae,Picobirnavirus sp.,Goat,Ondo,Swab,Herbivores,peri-domesticated,8,43,46,2419,0.000142201,142.2009477
+Picobirnaviridae,Porcine picobirnavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,6,43,46,3223,0.000161698,161.6984703
+Picobirnaviridae,Porcine picobirnavirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,6,43,46,30308,0.001167909,1167.90914
+Picobirnaviridae,Simian picobirnavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,4,43,46,1862,7.66E-05,76.6
+Picobirnaviridae,Tasmanian devil-associated picobirnavirus 4,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,8,6.31E-07,0.630848359
+Picobirnaviridae,nabpantry virus 10,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,108,4.44E-06,4.44
+Picornaviridae,Anativirus sp.,Goat,Ondo,Swab,Herbivores,peri-domesticated,3,43,46,17,1.13E-06,1.132387413
+Picornaviridae,Coyote tobacco stunting virus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,7,2.83E-07,0.282565514
+Picornaviridae,Phacovirus sp.,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,4,2.66E-07,0.266444097
+Picornaviridae,Picornaviridae sp.,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,4,2.66E-07,0.266444097
+Pneumoviridae,Bovine orthopneumovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,202,9.12E-06,9.117533573
+Pneumoviridae,Ovine respiratory syncytial virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,30,1.32E-06,1.316059034
+Pneumoviridae,bovine respiratory syncytial virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,27,1.18E-06,1.184453131
+Poxviridae,Orf virus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,7,43,46,13331,0.000630094,630.094126
+Poxviridae,Orf virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,7,43,46,243,8.99E-06,8.99373666
+Rhabdoviridae,Citrus leprosis virus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,12,4.84E-07,0.484398024
+Rhabdoviridae,Citrus leprosis virus nuclear type,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,580,2.34E-05,23.41257116
+Rhabdoviridae,Rhabdovirus YHG-2013,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,6,2.42E-07,0.242199012
+Sedoreoviridae,Avian rotavirus A,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,10,6.52E-07,0.652388237
+Sedoreoviridae,Bovine rotavirus A,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,34,2.44E-06,2.441939653
+Sedoreoviridae,Human rotavirus A,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,4,43,46,22,1.63E-06,1.63
+Sedoreoviridae,Lamb rotavirus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,24,1.72E-06,1.723722108
+Sedoreoviridae,Rabbit rotavirus A,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,62,4.45E-06,4.452948779
+Sedoreoviridae,Rotavirus A,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,4,43,46,330,2.43E-05,24.33845334
+Solemoviridae,Physalis rugose mosaic virus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,28,1.15E-06,1.15
+Solemoviridae,Sobemovirus sp.,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,6,2.42E-07,0.242199012
+Tobaniviridae,Antelope torovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,151811,0.002578069,2578.06938
+Tobaniviridae,Bangali torovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,3782,6.41E-05,64.06940394
+Tobaniviridae,Berne virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,32612,0.000553922,553.9217905
+Tobaniviridae,Bovine torovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,77163,0.001307188,1307.188484
+Tobaniviridae,Breda virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,128738,0.002186355,2186.354659
+Tobaniviridae,Goat torovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,3,43,46,461690,0.008790204,8790.204278
+Tobaniviridae,Guangxi torovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,53,8.98E-07,0.897852567
+Tobaniviridae,Porcine torovirus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,23783,0.000402899,402.898634
+Tobaniviridae,Torovirus sp.,Goat,Ondo,Swab,Herbivores,peri-domesticated,2,43,46,139221,0.002362196,2362.19609
+Tombusviridae,Trailing lespedeza virus 1,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,7,2.83E-07,0.282565514
+Totiviridae,Malassezia restricta virus MrV40L,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,4,1.11E-07,0.111180834
+Totiviridae,Uromyces potyvirus A,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,4,1.86E-07,0.185504992
+Unclassifed,Drosophila A virus,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,20,1.30E-06,1.304776474
+Unclassifed,Erysiphe necator associated virus 1,Goat,Ondo,Swab,Herbivores,peri-domesticated,1,43,46,9,6.07E-07,0.607
+Unclassifed,Ousland virus,Goat,Ebonyi,Swab,Herbivores,peri-domesticated,1,43,46,297,1.39E-05,13.9
+Circoviridae,Circoviridae sp.,Lizard,Ebonyi ,Oral,Insctivores,peri-domesticated,1,3,3,10,8.60E-07,0.86
+Genomoviridae,Genomoviridae sp.,Lizard,Ebonyi ,Oral,Insctivores,peri-domesticated,6,3,3,4,3.26E-07,0.325824809
+Picobirnaviridae,Picobirnavirus sp.,Lizard,Ebonyi ,Oral,Insctivores,peri-domesticated,8,3,3,5,4.07E-07,0.407281012
+Picobirnaviridae,Picobirnavirus sp. gcode 4,Lizard,Ebonyi ,Oral,Insctivores,peri-domesticated,1,3,3,5,4.07E-07,0.407281012
+Poxviridae,Orf virus,Lizard,Ebonyi ,Oral,Insctivores,peri-domesticated,7,3,3,240,1.95E-05,19.54948855
+Adintoviridae,Terrapene box turtle adintovirus,Lizard,Ebonyi,Swab,Insctivores,peri-domesticated,3,3,3,41,1.21E-05,12.13489924
+Adintoviridae,Terrapene box turtle adintovirus,Lizard,Ondo,Swab,Insctivores,peri-domesticated,3,3,3,372,2.10E-05,20.97671821
+Papillomaviridae,Human papillomavirus,Lizard,Ondo,Swab,Insctivores,peri-domesticated,4,3,3,19,1.08E-06,1.08
+Papillomaviridae,Leptonychotes weddellii papillomavirus 4,Lizard,Ondo,Swab,Insctivores,peri-domesticated,1,3,3,137,7.76E-06,7.76
+Papillomaviridae,Miniopterus schreibersii papillomavirus 1,Lizard,Ondo,Swab,Insctivores,peri-domesticated,1,3,3,66,3.74E-06,3.74
+Papillomaviridae,Peromyscus papillomavirus 1,Lizard,Ondo,Swab,Insctivores,peri-domesticated,1,3,3,15,8.45E-07,0.845173748
+Mitoviridae,Ambrosia artemisiifolia mitovirus 1,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,539,4.19E-05,41.9
+Orthoherpesviridae,Bovine gammaherpesvirus 6,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,3,4,4,205,1.53E-05,15.34537255
+Potyviridae,Celery mosaic virus,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,33,2.57E-06,2.57
+Potyviridae,Endive yellows virus,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,2,4,4,55,4.27E-06,4.268008099
+Potyviridae,Kalanchoe mosaic virus,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,6,4.47E-07,0.447012148
+Potyviridae,Lily mottle virus,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,7,5.22E-07,0.521514173
+Potyviridae,Paris potyvirus 4,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,11,8.20E-07,0.819522272
+Potyviridae,Polygonatnum kingianum mottle virus,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,55,4.20E-06,4.198048594
+Potyviridae,Potyvirus apii,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,6,4.47E-07,0.447012148
+Potyviridae,Potyvirus sp.,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,21,1.63E-06,1.63
+Potyviridae,Turnip mosaic virus,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,14,1.04E-06,1.043028346
+Potyviridae,Vanilla distortion mosaic virus,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,2,4,4,58,4.49E-06,4.486016198
+Poxviridae,Bovine papular stomatitis virus,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,9,6.71E-07,0.670518223
+Poxviridae,Orf virus,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,7,4,4,6978,0.000535057,535.0568918
+Poxviridae,Parapoxvirus red deer/HL953,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,10,7.45E-07,0.745020247
+Solemoviridae,Southern cowpea mosaic virus,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,32,2.43E-06,2.431036445
+Tobaniviridae,Bovine nidovirus 1,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,66831,0.005178739,5178.738634
+Tobaniviridae,Bovine nidovirus TCH5,Pig,Ebonyi ,Rectal,Omnivores,peri-domesticated,1,4,4,56630,0.004359046,4359.045953
+Adenoviridae,Fowl aviadenovirus 6,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,5,3.89E-07,0.388825588
+Alphaflexiviridae,Cassava Colombian symptomless virus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,7,3.18E-07,0.318486871
+Alphaflexiviridae,Dioscorea potexvirus 1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,241,1.13E-05,11.26848687
+Alphaflexiviridae,Lily virus X,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,10,4.55E-07,0.454981244
+Alphaflexiviridae,Nerine virus X,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,8,3.64E-07,0.363984995
+Alphaflexiviridae,Yam virus X,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,28,1.29E-06,1.293977493
+Alphaflexiviridae,Zygocactus virus X,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,22,1.00E-06,1.000958736
+Astroviridae,Hubei mamastrovirus 1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,90,4.21E-06,4.21
+Astroviridae,Hubei mamastrovirus 3,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,604,4.70E-05,46.97013104
+Astroviridae,Jiangsu mamastrovirus 1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,32034,0.00256908,2569.08
+Astroviridae,Jiangsu mamastrovirus 2,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,39,1.82E-06,1.82
+Astroviridae,Mamastrovirus 2,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,16,7.28E-07,0.72796999
+Astroviridae,Mamastrovirus 3,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,5,4,4,181430,0.014207259,14207.25946
+Astroviridae,Mamastrovirus sp.,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,165,1.21E-05,12.05683657
+Astroviridae,Pig astrovirus CX1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,13,5.91E-07,0.591475617
+Astroviridae,Pig astrovirus ahast-2,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,98484,0.007898054,7898.053861
+Astroviridae,Porcine astrovirus 2,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,51206,0.004105738,4105.738389
+Astroviridae,Porcine astrovirus 4,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,105563,0.008412799,8412.798997
+Astroviridae,Sichuan mamastrovirus 8,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,201,1.56E-05,15.63078864
+Circoviridae,Circovirus sp.,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,97,5.12E-06,5.119747959
+Circoviridae,Po-Circo-like virus 51,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,4,1.82E-07,0.181992498
+Circoviridae,Porcine circovirus 5,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,74,5.93E-06,5.93
+Circoviridae,Porcine stool-associated circular virus 5,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,4,3.11E-07,0.31106047
+Circoviridae,Porcine stool-associated circular virus/BEL/15V010,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,200,1.58E-05,15.75155434
+Genomoviridae,Chicken genomovirus mg8_416,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,6,2.73E-07,0.272988746
+Genomoviridae,Chicken stool-associated gemycircularvirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,4,4,4,34,1.73E-06,1.733115532
+Genomoviridae,Genomoviridae sp.,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,6,4,4,323,1.90E-05,18.95513728
+Genomoviridae,Porcine genomovirus-1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,6733,0.000311953,311.9531305
+Genomoviridae,Raccoon dog stool-associated gemycircularvirus 1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,289,1.31E-05,13.14895795
+Genomoviridae,bubaline-associated gemykrogvirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,4,4,4,62,3.85E-06,3.853427495
+Genomoviridae,crane CRESS-DNA virus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,169,7.69E-06,7.689183021
+Mimiviridae,Indivirus ILV1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,7,5.44E-07,0.544355823
+Narnaviridae,Lilsebastian narna-like virus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,5,3.89E-07,0.388825588
+Orthoherpesviridae,Alcelaphine gammaherpesvirus 1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,62,2.86E-06,2.862951234
+Orthoherpesviridae,Bovine gammaherpesvirus 6,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,3,4,4,605,2.81E-05,28.07417927
+Orthoherpesviridae,Ovine gammaherpesvirus 2,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,90,4.18E-06,4.176445607
+Orthoherpesviridae,Porcine lymphotropic herpesvirus 2,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,437,2.02E-05,20.22819802
+Orthoherpesviridae,Porcine lymphotropic herpesvirus 3,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,157,7.26E-06,7.25787621
+Orthoherpesviridae,Rhinolophus gammaherpesvirus 1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,10,4.55E-07,0.454981244
+Orthoherpesviridae,Suid betaherpesvirus 2,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,20,1.25E-06,1.248470312
+Partitiviridae,Neurospora discreta partitivirus 4,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,13,5.91E-07,0.591475617
+Partitiviridae,Partitiviridae sp.,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,5,4,4,1543,8.69E-05,86.90119017
+Partitiviridae,Rosellinia necatrix partitivirus 21,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,108,5.04E-06,5.041984995
+Partitiviridae,Sarcosphaera coronaria partitivirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,365,1.71E-05,17.1
+Parvoviridae,Porcine bocavirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,3,4,4,5056,0.000402375,402.375116
+Parvoviridae,Porcine bocavirus 2,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,11,8.55E-07,0.855416294
+Parvoviridae,Porcine bocavirus 3,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,61,3.20E-06,3.202649525
+Parvoviridae,Porcine bocavirus 3/64-1/N.Ireland/2004,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,36,1.87E-06,1.866590706
+Parvoviridae,Porcine bufavirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,17,1.32E-06,1.322006999
+Parvoviridae,Protoparvovirus Zsana/2013/HUN,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,36,2.89E-06,2.89
+Parvoviridae,Zophobas morio black wasting virus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,8,3.64E-07,0.363984995
+Picobirnaviridae,Bovine picobirnavirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,4,4,4,100,8.02E-06,8.02
+Picobirnaviridae,Dromedary picobirnavirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,4,4,4,910,7.30E-05,73
+Picobirnaviridae,Human picobirnavirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,3,4,4,700,5.61E-05,56.08882559
+Picobirnaviridae,Otarine picobirnavirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,52,4.17E-06,4.17
+Picobirnaviridae,Picobirnavirus sp.,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,8,4,4,2210,0.000148256,148.2557176
+Picobirnaviridae,Porcine picobirnavirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,6,4,4,1669,0.00013372,133.7203623
+Picobirnaviridae,Simian picobirnavirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,4,4,4,17,1.32E-06,1.322006999
+Picornaviridae,Chicken picornavirus 4,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,4,4,4,24,1.12E-06,1.12
+Picornaviridae,Enterovirus G,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,84,6.74E-06,6.74
+Picornaviridae,Enterovirus sp.,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,12,7.40E-07,0.739579452
+Picornaviridae,Kobuvirus cebes,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,34,1.59E-06,1.59
+Picornaviridae,Kobuvirus swine/China/2010,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,16,1.24E-06,1.244241882
+Picornaviridae,Megrivirus sp.,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,5,4,4,1042,8.36E-05,83.57
+Picornaviridae,Pasivirus A,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,80,6.42E-06,6.42
+Picornaviridae,Pasivirus A1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,22,1.75E-06,1.746590706
+Picornaviridae,Porcine kobuvirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,11205,0.000890693,890.6929287
+Picornaviridae,Porcine kobuvirus swine/2007/CHN,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,7,3.18E-07,0.318486871
+Picornaviridae,Sichuan entero-like virus 1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,4,1.82E-07,0.181992498
+Picornaviridae,Sichuan picorna-like virus 31,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,24,1.87E-06,1.866362823
+Picornaviridae,Teschovirus A,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,10,4.55E-07,0.454981244
+Picornaviridae,megrivirus C1,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,3,4,4,21,9.55E-07,0.955460612
+Sedoreoviridae,Equine rotavirus A,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,12,9.33E-07,0.933181411
+Sedoreoviridae,Human rotavirus A,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,4,4,4,621,2.96E-05,29.58424188
+Sedoreoviridae,Porcine rotavirus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,907,4.26E-05,42.61659071
+Sedoreoviridae,Porcine rotavirus A,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,4,4,4,149,8.90E-06,8.902457956
+Sedoreoviridae,Porcine rotavirus HP140,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,12,9.62E-07,0.962
+Sedoreoviridae,Rotavirus A,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,4,4,4,1045,5.28E-05,52.84661611
+Sedoreoviridae,Rotavirus A TRUYO,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,5,3.89E-07,0.388825588
+Solemoviridae,Southern cowpea mosaic virus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,19,8.64E-07,0.864464363
+Unclassifed,Chicken virus mg5_2197,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,6,4.67E-07,0.466590706
+Unclassifed,Circular ssDNA virus sp.,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,2,4,4,4,3.11E-07,0.31106047
+Unclassifed,Hubei levi-like virus 2,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,6,2.73E-07,0.272988746
+Unclassifed,Kagge virus,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,226,1.46E-05,14.6
+Unclassifed,ssDNA virus sp.,Pig,Ebonyi,Swab,Omnivores,peri-domesticated,1,4,4,4,1.82E-07,0.181992498
+Adenoviridae,Murine adenovirus 1,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,17,0.000170211,170.211
+Adenoviridae,Murine adenovirus 3,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,2144,0.022200676,22200.67631
+Anelloviridae,Anelloviridae sp.,Rodent,Ebonyi ,Liver,Omnivores,wild,2,56,104,8,8.01E-05,80.09932316
+Anelloviridae,Anelloviridae sp.,Rodent,Ondo ,Liver,Omnivores,wild,2,56,104,50,0.000106588,106.5876253
+Anelloviridae,Mosquito VEM Anellovirus SDBVL B,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,38,0.000119695,119.6949848
+Anelloviridae,Myodefec virus RodL3_715,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,4,3.43E-06,3.4320211
+Anelloviridae,Rodent Torque teno virus 1,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,88,2.17E-05,21.66441816
+Anelloviridae,Rodent torque teno virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,4,1.20E-05,11.99817628
+Anelloviridae,Torque teno calomys tener virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,11,3.53E-05,35.3
+Anelloviridae,mosquito VEM Anellovirus SDBVL,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,47,0.000140979,140.9785713
+Arenaviridae,Aershan mammarenavirus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,6,1.18E-06,1.181537764
+Arenaviridae,Arenavirus sp.,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,1600,0.00029247,292.4703178
+Arenaviridae,Bitu virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,7,1.38E-06,1.378460724
+Arenaviridae,Cardamones virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,49,1.06E-05,10.58523365
+Arenaviridae,Dhati Welel mammarenavirus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,2125,0.000254363,254.3632906
+Arenaviridae,Gbagroube virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,1819,0.00018884,188.8397914
+Arenaviridae,Kitale virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,42,3.69E-06,3.688365821
+Arenaviridae,Kwanza virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,538,0.000119791,119.7908171
+Arenaviridae,Lassa virus Josiah,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,18029,0.003099178,3099.178266
+Arenaviridae,Lijiang virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,78,7.50E-06,7.49587088
+Arenaviridae,Mafiga mammarenavirus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,1012,0.000178818,178.8183188
+Arenaviridae,Mammarenavirus choriomeningitidis,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,189,2.49E-05,24.86024234
+Arenaviridae,Mammarenavirus gairoense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,1791,0.000162642,162.6424956
+Arenaviridae,Mammarenavirus ippyense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,73,3.22E-06,3.224873048
+Arenaviridae,Mammarenavirus lassaense,Rodent,Ondo,Liver,Omnivores,wild,1,56,104,728,4.44E-05,44.37375526
+Arenaviridae,Mammarenavirus lassaense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,2536246,0.394230318,394230.3184
+Arenaviridae,Mammarenavirus lunaense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,835,7.69E-05,76.906566
+Arenaviridae,Mammarenavirus marientalense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,370,4.39E-05,43.88860743
+Arenaviridae,Mammarenavirus merinoense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,66,2.92E-06,2.915638646
+Arenaviridae,Mammarenavirus mopeiaense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,515,5.89E-05,58.91619168
+Arenaviridae,Mammarenavirus piritalense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,40,7.88E-06,7.876918423
+Arenaviridae,Mammarenavirus praomyidis,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,61,8.04E-06,8.040888542
+Arenaviridae,Mammarenavirus tacaribeense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,64,2.83E-06,2.82728596
+Arenaviridae,Mammarenavirus wenzhouense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,227,3.20E-05,32.04714462
+Arenaviridae,Mammarenavirus whitewaterense,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,25,4.92E-06,4.923074015
+Arenaviridae,Menekre virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,1919,0.000472432,472.432
+Arenaviridae,Mopeia Lassa virus reassortant 29,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,3794,0.000306072,306.0721853
+Arenaviridae,Morogoro mammarenavirus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,9213,0.001731969,1731.969034
+Arenaviridae,Ngerengere mammarenavirus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,183,1.74E-05,17.40181446
+Arenaviridae,Pichinde virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,192,2.30E-05,23.02659422
+Arenaviridae,Rat mammarenavirus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,39,3.25E-06,3.250343557
+Arenaviridae,Souris virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,4,9.85E-07,0.98474628
+Arenaviridae,WENV Rattus norvegicus mammarenavirus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,20,4.92E-06,4.923731401
+Arenaviridae,Wenzhou Rattus losea mammarenavirus 1,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,13,2.56E-06,2.559998488
+Arenaviridae,Wenzhou Rattus norvegicus mammarenavirus 1,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,233,2.74E-05,27.44967843
+Arenaviridae,Xingyi virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,13,5.74E-07,0.574292461
+Astroviridae,Mamastrovirus 3,Rodent,Ebonyi ,Liver,Omnivores,wild,5,56,104,16,9.90E-06,9.899299576
+Circoviridae,Circovirus gnaver,Rodent,Ebonyi,Liver,Omnivores,wild,1,56,104,44,4.39E-05,43.9
+Circoviridae,Circovirus gnaver,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,7391,0.004599484,4599.48403
+Circoviridae,Circovirus gnaver,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,1643,0.000331016,331.016
+Circoviridae,Giant panda circovirus 6,Rodent,Ebonyi,Liver,Omnivores,wild,1,56,104,22,2.19E-05,21.9
+Circoviridae,Giant panda circovirus 6,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,144,6.89E-05,68.85377287
+Circoviridae,Giant panda circovirus 6,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,40,1.76E-05,17.61724902
+Circoviridae,Paguma larvata circovirus,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,59,2.45E-05,24.47811668
+Genomoviridae,Chimpanzee gemykibivirus,Rodent,Ebonyi,Liver,Omnivores,wild,3,56,104,6,5.22E-06,5.220823428
+Genomoviridae,Gemycircularvirus environmental sample,Rodent,Ebonyi,Liver,Omnivores,wild,1,56,104,8,6.96E-06,6.961097904
+Genomoviridae,Gemykibivirus,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,4,2.31E-06,2.30976221
+Genomoviridae,Genomoviridae sp.,Rodent,Ebonyi ,Liver,Omnivores,wild,6,56,104,50,2.95E-05,29.47098686
+Genomoviridae,Genomoviridae sp.,Rodent,Ondo ,Liver,Omnivores,wild,6,56,104,70,5.00E-05,49.98364821
+Genomoviridae,Gila monster-associated gemycircularvirus 1,Rodent,Ebonyi ,Liver,Omnivores,wild,3,56,104,85,4.50E-05,44.98715546
+Genomoviridae,Grus nigricollis-associatied genomovirus,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,21,1.10E-05,11.02719441
+Genomoviridae,Human associated gemykibivirus 2,Rodent,Ebonyi ,Liver,Omnivores,wild,5,56,104,4,8.76E-07,0.87589374
+Genomoviridae,bubaline-associated gemykrogvirus,Rodent,Ebonyi ,Liver,Omnivores,wild,4,56,104,37,9.44E-06,9.437749877
+Mesoniviridae,Alphamesonivirus cavallyense,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,14,1.15E-05,11.47063354
+Mesoniviridae,Houston virus,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,4,1.13E-06,1.126148319
+Mesoniviridae,Nam Dinh virus,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,11,3.10E-06,3.096907878
+Nairoviridae,Cencurut virus,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,6,3.84E-07,0.384244146
+Nairoviridae,Nairoviridae sp.,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,64,4.10E-06,4.09860422
+Nairoviridae,Orthonairovirus thiaforaense,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,677,4.38E-05,43.77667946
+Orthoherpesviridae,Mastomys natalensis cytomegalovirus 1,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,29,0.000183233,183.2331634
+Orthoherpesviridae,Mastomys natalensis cytomegalovirus 1,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,166,0.000515635,515.6346137
+Orthoherpesviridae,Mastomys natalensis cytomegalovirus 2,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,6,6.01E-05,60.07449237
+Orthoherpesviridae,Mastomys natalensis cytomegalovirus 2,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,107,0.000320951,320.9512154
+Orthoherpesviridae,Mastomys natalensis cytomegalovirus 3,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,63,0.000630782,630.7822926
+Orthoherpesviridae,Mastomys natalensis cytomegalovirus 3,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,301,0.000893882,893.8823462
+Orthoherpesviridae,Murid betaherpesvirus 1,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,50,0.00050062,500.6204771
+Orthoherpesviridae,Murid betaherpesvirus 1,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,214,0.000669966,669.9660696
+Orthoherpesviridae,Murid betaherpesvirus 2,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,8,8.01E-05,80.09932316
+Orthoherpesviridae,Murid betaherpesvirus 2,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,36,0.000113696,113.6958966
+Orthoherpesviridae,Murid betaherpesvirus 8,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,167,0.001672074,1672.073555
+Orthoherpesviridae,Murid betaherpesvirus 8,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,852,0.00263367,2633.669697
+Orthoherpesviridae,Murid gammaherpesvirus 4,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,8,2.57E-05,25.7
+Orthoherpesviridae,Murine cytomegalovirus (strain K181),Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,26,7.80E-05,77.9881458
+Orthoherpesviridae,Rat cytomegalovirus ALL-03,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,16,0.000160199,160.1986616
+Orthoherpesviridae,Rat cytomegalovirus ALL-03,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,96,0.000301851,301.8513221
+Papillomaviridae,Mastomys coucha papillomavirus 2,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,13,3.20E-06,3.20042541
+Papillomaviridae,human papillomavirus 24,Rodent,Ebonyi ,Liver,Omnivores,wild,2,56,104,4,1.95E-06,1.948485929
+Parvoviridae,Adeno-associated virus,Rodent,Ebonyi ,Liver,Omnivores,wild,4,56,104,36,1.62E-05,16.23877495
+Parvoviridae,Bat adeno-associated virus,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,4,2.72E-06,2.720185408
+Parvoviridae,Canine parvovirus,Rodent,Ebonyi ,Liver,Omnivores,wild,6,56,104,4,2.23E-06,2.233306869
+Parvoviridae,Capuchin kidney parvovirus,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,31,6.79E-06,6.788176486
+Parvoviridae,Dependoparvovirus sp.,Rodent,Ebonyi ,Liver,Omnivores,wild,3,56,104,6,2.71E-06,2.706462491
+Parvoviridae,Parvoviridae sp.,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,4,1.58E-06,1.581195162
+Parvoviridae,Parvovirinae sp.,Rodent,Ebonyi ,Liver,Omnivores,wild,2,56,104,32,1.27E-05,12.69201375
+Parvoviridae,Rat parvovirus 2,Rodent,Ebonyi ,Liver,Omnivores,wild,1,56,104,32,8.51E-06,8.513306869
+Picobirnaviridae,Picobirnavirus sp.,Rodent,Ebonyi ,Liver,Omnivores,wild,8,56,104,4,1.09E-06,1.094431369
+Picornaviridae,Megrivirus sp.,Rodent,Ebonyi ,Liver,Omnivores,wild,5,56,104,7,3.16E-06,3.157539573
+Poxviridae,Molluscum contagiosum virus,Rodent,Ebonyi ,Liver,Omnivores,wild,3,56,104,55,5.76E-06,5.761395597
+Rhabdoviridae,Wheat rosette stunt virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,18,2.93E-06,2.933626821
+Tombusviridae,Hypsignathus monstrosus tombus-like virus 2,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,11,1.07E-05,10.73560356
+Unclassifed,Longquan rodent ribovirus 1,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,5,1.66E-06,1.658505713
+Unclassifed,Riboviria sp.,Rodent,Ondo ,Liver,Omnivores,wild,3,56,104,313,0.00024409,244.0896396
+Unclassifed,Seli virus,Rodent,Ondo ,Liver,Omnivores,wild,1,56,104,10,2.46E-06,2.4618657
+Adenoviridae,Human mastadenovirus D,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,30,1.74E-06,1.742490765
+Adintoviridae,Terrapene box turtle adintovirus,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,128,4.04E-05,40.37946859
+Anelloviridae,Chicken anemia virus,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,6,4.27E-07,0.427145617
+Arenaviridae,Mammarenavirus lassaense,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,1720,0.000572344,572.3435904
+Arenaviridae,Mammarenavirus lassaense,Rodent,Ondo ,Lung,Omnivores,wild,1,56,104,4,7.74E-07,0.77387042
+Arteriviridae,Arteriviridae sp.,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,1503,0.000409445,409.4452345
+Arteriviridae,Bamboo rat arterivirus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,9,2.32E-06,2.318325695
+Arteriviridae,Lactate dehydrogenase-elevating virus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,17,4.85E-06,4.85183377
+Arteriviridae,Porcine reproductive and respiratory syndrome virus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,26,7.92E-06,7.915889964
+Astroviridae,Astrovirus wild boar/WBAstV-1/2011/HUN,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,814,5.81E-05,58.1
+Astroviridae,Mamastrovirus 3,Rodent,Ondo,Lung,Omnivores,wild,5,56,104,168,1.19E-05,11.86277053
+Astroviridae,Mamastrovirus sp.,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,99,7.43E-06,7.43320155
+Astroviridae,Porcine astrovirus 2,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,11841,0.000844975,844.975
+Astroviridae,Porcine astrovirus 4,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,170,1.21E-05,12.06191712
+Astroviridae,Zhejiang porcine bastro-like virus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,10,6.95E-07,0.694681505
+Caulimoviridae,Alhagi bacilliform virus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,6,3.48E-07,0.348498153
+Circoviridae,Circovirus sp.,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,4437,0.000316536,316.5360031
+Circoviridae,Po-Circo-like virus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,148,1.06E-05,10.6
+Circoviridae,Porcine circovirus 5,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,37,2.64E-06,2.64
+Circoviridae,Porcine stool-associated circular virus 5,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,700,4.86E-05,48.62770532
+Circoviridae,Porcine stool-associated circular virus/BEL/15V010,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,30269,0.002159994,2159.994
+Coronaviridae,Avian coronavirus,Rodent,Ondo,Lung,Omnivores,wild,4,56,104,36145,0.002649289,2649.289212
+Coronaviridae,Canada goose coronavirus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,764,5.44E-05,54.38987517
+Coronaviridae,Coronavirus PREDICT_CoV-100,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,2649,0.000188584,188.5843915
+Coronaviridae,Duck coronavirus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,79,5.62E-06,5.624083951
+Coronaviridae,Duck coronavirus 2714,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,7659,0.000566787,566.7871991
+Coronaviridae,Duck-dominant coronavirus,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,7503,0.000533509,533.5086642
+Coronaviridae,Gammacoronavirus sp.,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,17979,0.001328357,1328.356502
+Coronaviridae,Guinea fowl coronavirus,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,4,2.85E-07,0.284763744
+Coronaviridae,Infectious bronchitis virus,Rodent,Ondo,Lung,Omnivores,wild,5,56,104,136445,0.0098805,9880.499711
+Coronaviridae,Infectious bronchitis virus 4/91,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,19,1.35E-06,1.352627786
+Coronaviridae,Mallard coronavirus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,309,2.20E-05,21.99799925
+Coronaviridae,Middle East respiratory syndrome-related coronavirus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,105,7.48E-06,7.475048289
+Coronaviridae,Mute swan feces associated gammacoronavirus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,346,2.46E-05,24.63206389
+Coronaviridae,Pheasant coronavirus,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,155,1.10E-05,11.03459509
+Coronaviridae,Pigeon-dominant Coronavirus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,16030,0.001179941,1179.941013
+Coronaviridae,Turkey coronavirus,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,1044,7.43E-05,74.32333727
+Coronaviridae,Waterbird gammacoronavirus 1,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,6,4.27E-07,0.427145617
+Coronaviridae,Yunnan coronavirus 3,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,169,1.20E-05,12.0312682
+Coronaviridae,Zaria bat coronavirus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,274,1.95E-05,19.50631649
+Genomoviridae,Chicken genomovirus mg8_416,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,4,2.78E-07,0.277872602
+Genomoviridae,Chicken stool-associated gemycircularvirus,Rodent,Ondo,Lung,Omnivores,wild,4,56,104,22,1.53E-06,1.52829931
+Genomoviridae,Chimpanzee gemykibivirus,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,20,1.16E-06,1.16166051
+Genomoviridae,Genomoviridae sp.,Rodent,Ondo,Lung,Omnivores,wild,6,56,104,1161,6.76E-05,67.59378436
+Genomoviridae,Gila monster-associated gemycircularvirus 1,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,46,8.25E-06,8.249354365
+Genomoviridae,Human associated gemykibivirus 2,Rodent,Ondo,Lung,Omnivores,wild,5,56,104,16,9.29E-07,0.929328408
+Genomoviridae,MSSI2.225 virus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,12,3.09E-06,3.091100927
+Orthoherpesviridae,Bandicota savilei rhadinovirus 1,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,7,2.23E-05,22.2800797
+Orthoherpesviridae,Gallid alphaherpesvirus 2,Rodent,Ondo,Lung,Omnivores,wild,4,56,104,782,5.69E-05,56.85926448
+Orthoherpesviridae,Gallid alphaherpesvirus 3,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,1622,0.000117533,117.5330461
+Orthoherpesviridae,Marek's disease herpesvirus strain GA,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,18,1.28E-06,1.28143685
+Orthoherpesviridae,Marek's disease virus serotype 2 MDV2,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,73,5.34E-06,5.33739153
+Orthoherpesviridae,Mastomys natalensis cytomegalovirus 1,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,30,9.71E-05,97.09163351
+Orthoherpesviridae,Mastomys natalensis cytomegalovirus 2,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,58,0.000184606,184.6063746
+Orthoherpesviridae,Mastomys natalensis cytomegalovirus 3,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,61,0.000194155,194.1549802
+Orthoherpesviridae,Meleagrid alphaherpesvirus 1,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,40,2.86E-06,2.858873699
+Orthoherpesviridae,Murid betaherpesvirus 1,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,141,0.000460083,460.0827691
+Orthoherpesviridae,Murid betaherpesvirus 2,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,16,5.09E-05,50.92589645
+Orthoherpesviridae,Murid betaherpesvirus 8,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,347,0.001116549,1116.549475
+Orthoherpesviridae,Murine cytomegalovirus (strain K181),Rodent,Ondo,Lung,Omnivores,wild,1,56,104,36,0.000117912,117.9115538
+Orthoherpesviridae,Rat cytomegalovirus ALL-03,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,29,9.23E-05,92.30318732
+Orthoherpesviridae,Rattus exulans cytomegalovirus 1,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,4,1.27E-05,12.73147411
+Orthoherpesviridae,Suid betaherpesvirus 2,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,87,5.05E-06,5.053223219
+Orthoherpesviridae,rat cytomegalovirus strain Maastricht,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,8,2.55E-05,25.46294823
+Orthomyxoviridae,Influenza A virus (A/chicken/Iran/SR110/2007(H9N2)),Rodent,Ondo,Lung,Omnivores,wild,1,56,104,4,1.09E-06,1.090414439
+Papillomaviridae,Human papillomavirus 155,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,232,6.94E-05,69.37639708
+Papillomaviridae,Human papillomavirus 80,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,6,1.64E-06,1.635621659
+Papillomaviridae,Rattus norvegicus papillomavirus 2,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,8,2.55E-05,25.46294823
+Paramyxoviridae,peste-des-petits-ruminants virus,Rodent,Ondo,Lung,Omnivores,wild,4,56,104,8,2.59E-06,2.589186135
+Partitiviridae,Partitiviridae sp.,Rodent,Ondo,Lung,Omnivores,wild,5,56,104,2265,0.000161613,161.6128089
+Parvoviridae,Canine parvovirus,Rodent,Ondo,Lung,Omnivores,wild,6,56,104,6,1.66E-06,1.660202943
+Parvoviridae,Feline panleukopenia virus,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,8,2.59E-06,2.589186135
+Parvoviridae,Porcine bocavirus,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,382,2.72E-05,27.2168089
+Parvoviridae,Porcine bocavirus 3,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,581,4.14E-05,41.38393937
+Parvoviridae,Porcine bocavirus 3C,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,75,5.35E-06,5.35
+Picobirnaviridae,Dromedary picobirnavirus,Rodent,Ondo,Lung,Omnivores,wild,4,56,104,291,2.07E-05,20.73244896
+Picobirnaviridae,Hainan picobirnavirus 19,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,36,2.50E-06,2.500853416
+Picobirnaviridae,Marmot picobirnavirus,Rodent,Ondo,Lung,Omnivores,wild,4,56,104,12,8.34E-07,0.833617805
+Picobirnaviridae,Otarine picobirnavirus,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,6,4.17E-07,0.416808903
+Picobirnaviridae,Picobirnavirus PREDICT_PbV-98,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,17,1.18E-06,1.180958558
+Picobirnaviridae,Picobirnavirus sp.,Rodent,Ondo,Lung,Omnivores,wild,8,56,104,863,6.25E-05,62.51040727
+Picobirnaviridae,Porcine picobirnavirus,Rodent,Ondo,Lung,Omnivores,wild,6,56,104,7018,0.000500322,500.3220376
+Picornaviridae,Anativirus sp.,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,29,2.15E-06,2.15
+Picornaviridae,Chicken picornavirus UCC/PhV,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,46,3.41E-06,3.41
+Picornaviridae,Gallivirus sp.,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,10,7.12E-07,0.711909361
+Picornaviridae,Kobuvirus cebes,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,5,3.47E-07,0.347340752
+Picornaviridae,Megrivirus sp.,Rodent,Ondo,Lung,Omnivores,wild,5,56,104,7569,0.000560544,560.544
+Picornaviridae,Phacovirus sp.,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,51,3.78E-06,3.78
+Picornaviridae,Porcine kobuvirus,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,63,4.47E-06,4.470958558
+Picornaviridae,Posavirus 1,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,12,8.34E-07,0.833617805
+Picornaviridae,Sicinivirus sp.,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,5632,0.000417116,417.116
+Picornaviridae,Teschovirus A,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,35,2.43E-06,2.431385266
+Picornaviridae,Teschovirus sp.,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,64,4.45E-06,4.445961629
+Picornaviridae,megrivirus C2,Rodent,Ondo,Lung,Omnivores,wild,4,56,104,719,5.31E-05,53.0595468
+Picornaviridae,teschovirus A2,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,82,5.85E-06,5.85
+Picornaviridae,teschovirus A9,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,281,2.01E-05,20.1
+Polyomaviridae,Merkel cell polyomavirus,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,12,3.88E-06,3.883779202
+Poxviridae,Molluscum contagiosum virus,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,14,3.82E-06,3.816450537
+Poxviridae,Molluscum contagiosum virus subtype 2,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,6,1.64E-06,1.635621659
+Poxviridae,Orf virus,Rodent,Ondo,Lung,Omnivores,wild,7,56,104,167,9.70E-06,9.699865259
+Redondoviridae,Porcine redondovirus 1,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,11,7.64E-07,0.764149655
+Sedoreoviridae,Human rotavirus A,Rodent,Ondo,Lung,Omnivores,wild,4,56,104,264,1.87E-05,18.73181197
+Sedoreoviridae,Porcine rotavirus,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,33,2.29E-06,2.292448965
+Sedoreoviridae,Porcine rotavirus A,Rodent,Ondo,Lung,Omnivores,wild,4,56,104,28,1.95E-06,1.945108213
+Sedoreoviridae,Rotavirus A,Rodent,Ondo,Lung,Omnivores,wild,4,56,104,254,1.80E-05,18.00383423
+Tobaniviridae,Goat torovirus,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,6,1.94E-06,1.941889601
+Tobaniviridae,Torovirus sp.,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,9,2.91E-06,2.912834401
+Unclassifed,Circular ssDNA virus sp.,Rodent,Ondo,Lung,Omnivores,wild,2,56,104,16,1.11E-06,1.111490407
+Unclassifed,Diabrotica virgifera virgifera virus 1,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,4,1.29E-06,1.294593067
+Unclassifed,Porcine kirkovirus,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,11,7.64E-07,0.764149655
+Unclassifed,Posavirus sp.,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,4,2.78E-07,0.277872602
+Unclassifed,Riboviria sp.,Rodent,Ondo,Lung,Omnivores,wild,3,56,104,270,9.13E-05,91.3
+Unclassifed,Wenzhou bat ribovirus 4,Rodent,Ondo,Lung,Omnivores,wild,1,56,104,11,1.82E-06,1.824626217
+Anelloviridae,Nayun tick torquevirus,Rodent,Ondo,Swab,Omnivores,wild,3,56,104,7,4.29E-06,4.290377664
+Anelloviridae,Tick associated torque teno virus,Rodent,Ondo,Swab,Omnivores,wild,1,56,104,4,2.45E-06,2.451644379
+Astroviridae,Human astrovirus 2,Rodent,Ondo,Swab,Omnivores,wild,1,56,104,6,3.68E-06,3.677466569
+Astroviridae,Mamastrovirus 3,Rodent,Ondo,Swab,Omnivores,wild,5,56,104,97,5.95E-05,59.4523762
+Coronaviridae,Betacoronavirus 1,Rodent,Ondo,Swab,Omnivores,wild,4,56,104,6,3.68E-06,3.677466569
+Coronaviridae,Bovine coronavirus,Rodent,Ondo,Swab,Omnivores,wild,5,56,104,8,4.90E-06,4.903288758
+Coronaviridae,Canine respiratory coronavirus,Rodent,Ondo,Swab,Omnivores,wild,3,56,104,4,2.45E-06,2.451644379
+Coronaviridae,Porcine hemagglutinating encephalomyelitis virus,Rodent,Ondo,Swab,Omnivores,wild,2,56,104,20,1.23E-05,12.2582219
+Orthoherpesviridae,Canid alphaherpesvirus 1,Rodent,Ondo,Swab,Omnivores,wild,2,56,104,672,0.000458754,458.7536591
+Orthoherpesviridae,Walrus alphaherpesvirus 1,Rodent,Ondo,Swab,Omnivores,wild,1,56,104,10,6.13E-06,6.129110948
+Papillomaviridae,Canine papillomavirus 22,Rodent,Ondo,Swab,Omnivores,wild,1,56,104,126,0.000103429,103.4291109
+Papillomaviridae,Canine papillomavirus 23,Rodent,Ondo,Swab,Omnivores,wild,1,56,104,69,5.50E-05,54.96784423
+Papillomaviridae,Canis familiaris papillomavirus 13,Rodent,Ondo,Swab,Omnivores,wild,2,56,104,262,0.000160583,160.5825327
+Papillomaviridae,Human papillomavirus,Rodent,Ondo,Swab,Omnivores,wild,4,56,104,38,2.33E-05,23.2906216
+Paramyxoviridae,peste-des-petits-ruminants virus,Rodent,Ondo,Swab,Omnivores,wild,4,56,104,4,2.45E-06,2.451644379
+Picobirnaviridae,Marmot picobirnavirus,Rodent,Ondo,Swab,Omnivores,wild,4,56,104,4,2.45E-06,2.451644379
+Picobirnaviridae,Picobirnavirus sp.,Rodent,Ondo,Swab,Omnivores,wild,8,56,104,10,6.13E-06,6.129110948
+Picornaviridae,Feline kobuvirus,Rodent,Ondo,Swab,Omnivores,wild,1,56,104,4,2.45E-06,2.451644379
+Picornaviridae,Kobuvirus aichi,Rodent,Ondo,Swab,Omnivores,wild,2,56,104,25,1.53E-05,15.32277737
+Picornaviridae,Marmot kobuvirus,Rodent,Ondo,Swab,Omnivores,wild,1,56,104,65,5.25E-05,52.51619985
+Picornaviridae,aichivirus A6,Rodent,Ondo,Swab,Omnivores,wild,1,56,104,74,6.21E-05,62.1
+Picornaviridae,aichivirus A8,Rodent,Ondo,Swab,Omnivores,wild,1,56,104,54,4.40E-05,43.97746657
+Poxviridae,Orf virus,Rodent,Ondo,Swab,Omnivores,wild,7,56,104,6,3.68E-06,3.677466569
+Unclassifed,Hainan astro-like virus 1,Rodent,Ondo,Swab,Omnivores,wild,2,56,104,15,1.12E-05,11.22746657
+Unclassifed,Hainan astro-like virus 2,Rodent,Ondo,Swab,Omnivores,wild,2,56,104,8,4.90E-06,4.903288758
+Adenoviridae,Fowl aviadenovirus 1,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,1,11,11,12,1.46E-05,14.62048867
+Botourmiaviridae,Botourmiaviridae sp.,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,2,11,11,4,2.37E-07,0.237182706
+Coronaviridae,Infectious bronchitis virus,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,5,11,11,12,1.46E-05,14.62048867
+Genomoviridae,Chimpanzee gemykibivirus,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,3,11,11,56,6.82E-05,68.22894711
+Genomoviridae,Genomoviridae sp.,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,6,11,11,234,0.000285099,285.0994975
+Genomoviridae,Gila monster-associated gemycircularvirus 1,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,3,11,11,449,0.00054705,547.05
+Genomoviridae,Human associated gemykibivirus 2,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,5,11,11,30,3.66E-05,36.55122166
+Genomoviridae,Plant associated genomovirus 6,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,2,11,11,148,0.000180319,180.319
+Mitoviridae,Mitoviridae sp.,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,3,11,11,10,5.93E-07,0.592956765
+Mitoviridae,Paris mitovirus 1,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,1,11,11,6,3.56E-07,0.355774059
+Narnaviridae,Yellow silver pine associated narna-like virus 37,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,1,11,11,4,2.37E-07,0.237182706
+Orthoherpesviridae,Gallid alphaherpesvirus 2,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,4,11,11,36,4.39E-05,43.861466
+Papillomaviridae,Human papillomavirus,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,4,11,11,32,3.90E-05,38.98796977
+Papillomaviridae,Human papillomavirus 122,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,1,11,11,4,4.87E-06,4.873496222
+Papillomaviridae,Human papillomavirus 17,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,2,11,11,28,3.41E-05,34.11447355
+Papillomaviridae,Human papillomavirus 37,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,1,11,11,10,1.22E-05,12.18374055
+Papillomaviridae,Human papillomavirus 80,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,2,11,11,24,2.92E-05,29.24097733
+Papillomaviridae,human papillomavirus 24,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,2,11,11,46,5.60E-05,56.04520655
+Paramyxoviridae,Pigeon paramyxovirus 1,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,1,11,11,16,1.95E-05,19.49398489
+Paramyxoviridae,avian paramyxovirus 1,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,2,11,11,28,3.41E-05,34.11447355
+Parvoviridae,Canine parvovirus,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,6,11,11,16,2.20E-05,22
+Parvoviridae,Zophobas morio black wasting virus,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,2,11,11,8,9.75E-06,9.746992444
+Picobirnaviridae,Picobirnavirus sp.,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,8,11,11,29,1.72E-06,1.719574618
+Poxviridae,Molluscum contagiosum virus,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,3,11,11,184,0.000224181,224.1808262
+Poxviridae,Molluscum contagiosum virus subtype 1,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,3,11,11,12,1.46E-05,14.62048867
+Poxviridae,Molluscum contagiosum virus subtype 2,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,2,11,11,14,1.71E-05,17.05723678
+Sedoreoviridae,Porcine rotavirus A,Sheep,Ebonyi ,Oral,Herbivores,peri-domesticated,4,11,11,8,5.11E-06,5.110678928
+Genomoviridae,Human associated gemykibivirus 2,Sheep,Ebonyi ,Rectal,Herbivores,peri-domesticated,5,11,11,40,1.90E-05,19.02245506
+Parvoviridae,Protoparvovirus sp.,Sheep,Ebonyi ,Rectal,Herbivores,peri-domesticated,2,11,11,7,3.33E-06,3.328929635
+Picobirnaviridae,Human picobirnavirus,Sheep,Ebonyi ,Rectal,Herbivores,peri-domesticated,3,11,11,6,2.85E-06,2.853368259
+Picobirnaviridae,Picobirnaviridae sp.,Sheep,Ebonyi ,Rectal,Herbivores,peri-domesticated,3,11,11,55,2.62E-05,26.1558757
+Picobirnaviridae,Picobirnavirus sp.,Sheep,Ebonyi ,Rectal,Herbivores,peri-domesticated,8,11,11,6,2.85E-06,2.853368259
+Poxviridae,Molluscum contagiosum virus subtype 1,Sheep,Ebonyi ,Rectal,Herbivores,peri-domesticated,3,11,11,18,8.56E-06,8.560104776
+Poxviridae,Orf virus,Sheep,Ebonyi ,Rectal,Herbivores,peri-domesticated,7,11,11,14,6.66E-06,6.65785927
+Adenoviridae,Bat mastadenovirus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,1,11,11,8,5.59E-07,0.558557726
+Adenoviridae,Muntjac deer mastadenovirus KH-2015,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,1,11,11,4,7.89E-07,0.789067315
+Adenoviridae,unidentified human adenovirus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,1,11,11,6,1.18E-06,1.183600972
+Astroviridae,Mamastrovirus 1,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,2,11,11,4,3.26E-07,0.32592187
+Astroviridae,Mamastrovirus 3,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,5,11,11,3025,0.000211205,211.205
+Betaflexiviridae,Yam virus Y,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,1,11,11,23,1.89E-06,1.888648416
+Closteroviridae,Citrus tristeza virus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,1,11,11,18,1.47E-06,1.466648415
+Coronaviridae,Betacoronavirus 1,Sheep,Ondo,Swab,Herbivores,peri-domesticated,4,11,11,78,5.54E-06,5.544559505
+Coronaviridae,Bovine coronavirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,5,11,11,235,1.66E-05,16.5952091
+Coronaviridae,Bovine coronavirus E-AH65-TC,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,37,2.66E-06,2.66
+Coronaviridae,Camel coronavirus HKU23,Sheep,Ondo,Swab,Herbivores,peri-domesticated,2,11,11,14,9.76E-07,0.975779753
+Coronaviridae,Canine respiratory coronavirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,3,11,11,18,1.29E-06,1.29
+Coronaviridae,Dromedary camel coronavirus HKU23,Sheep,Ondo,Swab,Herbivores,peri-domesticated,2,11,11,158,1.13E-05,11.32758843
+Coronaviridae,Equine coronavirus CH21,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,10,6.97E-07,0.696985538
+Coronaviridae,Human coronavirus OC43,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,3,11,11,8,1.58E-06,1.578134629
+Coronaviridae,Human coronavirus OC43,Sheep,Ondo,Swab,Herbivores,peri-domesticated,3,11,11,27,1.88E-06,1.881860952
+Coronaviridae,unidentified human coronavirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,2,11,11,6,4.18E-07,0.418191323
+Genomoviridae,Chimpanzee gemykibivirus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,3,11,11,6,4.19E-07,0.418918294
+Genomoviridae,Genomoviridae sp.,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,6,11,11,9,1.78E-06,1.775401458
+Genomoviridae,Genomoviridae sp.,Sheep,Ondo,Swab,Herbivores,peri-domesticated,6,11,11,4,2.91E-07,0.291057604
+Genomoviridae,Gila monster-associated gemycircularvirus 1,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,3,11,11,4,2.79E-07,0.279278863
+Genomoviridae,Human associated gemykibivirus 2,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,5,11,11,6,1.18E-06,1.183600972
+Orthoherpesviridae,Bovine gammaherpesvirus 6,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,3,11,11,290,5.86E-05,58.61317107
+Paramyxoviridae,peste-des-petits-ruminants virus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,4,11,11,40,3.26E-06,3.2592187
+Partitiviridae,Partitiviridae sp.,Sheep,Ondo,Swab,Herbivores,peri-domesticated,5,11,11,55,3.90E-06,3.90076529
+Parvoviridae,Feline panleukopenia virus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,2,11,11,8,5.59E-07,0.558557726
+Picobirnaviridae,Bovine picobirnavirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,4,11,11,545,3.16E-05,31.63
+Picobirnaviridae,Chicken picobirnavirus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,2,11,11,10,8.15E-07,0.814804675
+Picobirnaviridae,Dromedary picobirnavirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,4,11,11,46,3.43E-06,3.432523621
+Picobirnaviridae,Genet fecal picobirnavirus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,1,11,11,4,2.79E-07,0.279278863
+Picobirnaviridae,Genet fecal picobirnavirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,58,4.40E-06,4.4
+Picobirnaviridae,Lysoka picobirna-like virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,293,1.70E-05,17
+Picobirnaviridae,Marmot picobirnavirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,4,11,11,823,4.77E-05,47.73
+Picobirnaviridae,Picobirnavirus sp.,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,8,11,11,120,1.46E-05,14.60546113
+Picobirnaviridae,Picobirnavirus sp.,Sheep,Ondo,Swab,Herbivores,peri-domesticated,8,11,11,1624,0.000110983,110.9829674
+Picobirnaviridae,Porcine picobirnavirus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,6,11,11,203,1.72E-05,17.1763214
+Picobirnaviridae,Porcine picobirnavirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,6,11,11,10,5.59E-07,0.558724829
+Picobirnaviridae,Simian picobirnavirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,4,11,11,5,3.64E-07,0.363822005
+Picornaviridae,Bovine rhinitis B virus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,2,11,11,8,4.59E-07,0.459047564
+Picornaviridae,Rhinovirus C,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,1,11,11,6,4.89E-07,0.488882805
+Picornaviridae,rhinovirus C42,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,1,11,11,27,2.20E-06,2.199972623
+Potyviridae,Endive yellows virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,2,11,11,133,0.000191962,191.9616609
+Potyviridae,Ipomoea vein mosaic virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,13,1.25E-05,12.5401768
+Potyviridae,Lettuce mosaic virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,98,0.000144872,144.872
+Potyviridae,Moroccan watermelon mosaic virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,9,8.68E-06,8.68166086
+Potyviridae,Ornamental onion stripe mosaic virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,85,0.000125655,125.655
+Potyviridae,Plum pox virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,77,0.000113828,113.828
+Potyviridae,Vanilla distortion mosaic virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,2,11,11,81,0.000119741,119.741
+Potyviridae,Watermelon mosaic virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,24,2.32E-05,23.15109563
+Poxviridae,Molluscum contagiosum virus,Sheep,Ebonyi,Swab,Herbivores,peri-domesticated,3,11,11,14,2.07E-06,2.067017434
+Poxviridae,Orf virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,7,11,11,220,1.23E-05,12.29194624
+Poxviridae,Pseudocowpox virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,10,5.59E-07,0.558724829
+Tobaniviridae,Antelope torovirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,2,11,11,1021,0.001509332,1509.332
+Tobaniviridae,Breda virus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,2,11,11,138,0.000184991,184.9912724
+Tobaniviridae,Goat torovirus,Sheep,Ondo,Swab,Herbivores,peri-domesticated,3,11,11,5080,0.007509673,7509.673
+Tombusviridae,Ixeridium yellow mottle virus 2,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,421,0.000622359,622.359
+Unclassifed,Hubei picobirna-like virus 4,Sheep,Ondo,Swab,Herbivores,peri-domesticated,1,11,11,23,1.33E-06,1.33
+Anelloviridae,Giant panda anellovirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,28,1.10E-05,11.02410815
+Anelloviridae,Torque teno sus virus k2a,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,145,6.19E-05,61.90217614
+Circoviridae,Bamboo rat circovirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,11,4.33E-06,4.33089963
+Circoviridae,Bat circovirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,10569,0.004464514,4464.514
+Circoviridae,Beaked whale circovirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,172,8.02E-05,80.2
+Circoviridae,Canine circovirus,Squirrel,Ondo,Liver,Herbivores,wild,2,10,10,57,2.24E-05,22.44193445
+Circoviridae,Circovirus kiore,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,104,4.09E-05,40.94668741
+Circoviridae,Circovirus rongeur,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,1314,0.000612687,612.687
+Circoviridae,Fox circovirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,6,2.36E-06,2.362308889
+Circoviridae,Porcine circovirus 4,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,108,4.25E-05,42.52156001
+Circoviridae,WigFec circovirus 1,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,44,1.73E-05,17.32359852
+Flaviviridae,Hepacivirus P,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,41,1.75E-05,17.46235297
+Flaviviridae,Northern treeshrew hepacivirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,4,1.62E-06,1.623616476
+Parvoviridae,Adeno-associated virus,Squirrel,Ondo,Liver,Herbivores,wild,4,10,10,252,0.00010265,102.65
+Parvoviridae,Bovine hokovirus 1,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,921,0.000253776,253.7760554
+Parvoviridae,Bovine hokovirus 2,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,32230,0.008880784,8880.784
+Parvoviridae,Chimpanzee parv4,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,13644,0.003913467,3913.467
+Parvoviridae,Chipmunk parvovirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,235,0.000100906,100.9062741
+Parvoviridae,Dependoparvovirus sp.,Squirrel,Ondo,Liver,Herbivores,wild,3,10,10,109,4.43E-05,44.30161181
+Parvoviridae,Human parvovirus 4,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,6385,0.001827926,1827.926018
+Parvoviridae,Opossum tetraparvovirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,106,2.92E-05,29.20766762
+Parvoviridae,Parvovirus 4-like MK-2012,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,4095,0.001128353,1128.353132
+Parvoviridae,Porcine hokovirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,31,8.54E-06,8.541865058
+Parvoviridae,Porcine parvovirus 3,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,5327,0.001467823,1467.82317
+Parvoviridae,Rhinolophus pusillus adeno-associated virus 1,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,25,1.06E-05,10.6
+Parvoviridae,Rodent tetraparvovirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,258,7.11E-05,71.09036081
+Parvoviridae,Tadarida brasiliensis associated dependoparvovirus,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,18,7.76E-06,7.76
+Parvoviridae,Tetraparvovirus ungulate1,Squirrel,Ondo,Liver,Herbivores,wild,1,10,10,200,5.51E-05,55.10880683
+Anelloviridae,Anelloviridae sp.,Squirrel,Ondo,Lung,Herbivores,wild,2,10,10,100,4.11E-05,41.13143524
+Anelloviridae,Giant panda anellovirus,Squirrel,Ondo,Lung,Herbivores,wild,1,10,10,69,9.21E-06,9.205709995
+Anelloviridae,Torque teno sus virus k2a,Squirrel,Ondo,Lung,Herbivores,wild,1,10,10,14,5.36E-06,5.364009336
+Parvoviridae,Adeno-associated virus,Squirrel,Ondo,Lung,Herbivores,wild,4,10,10,227,4.40E-05,44.02
+Parvoviridae,Adeno-associated virus - Po1,Squirrel,Ondo,Lung,Herbivores,wild,1,10,10,6,1.49E-06,1.493849076
+Parvoviridae,Bovine adeno-associated virus,Squirrel,Ondo,Lung,Herbivores,wild,2,10,10,6,8.00E-07,0.800496521
+Parvoviridae,Bovine hokovirus 1,Squirrel,Ondo,Lung,Herbivores,wild,1,10,10,7,1.90E-06,1.897179382
+Parvoviridae,Bovine hokovirus 2,Squirrel,Ondo,Lung,Herbivores,wild,1,10,10,39,1.51E-05,15.09384908
+Parvoviridae,California sea lion adeno-associated virus 1,Squirrel,Ondo,Lung,Herbivores,wild,1,10,10,8,3.07E-06,3.065148192
+Parvoviridae,Canine parvovirus,Squirrel,Ondo,Lung,Herbivores,wild,6,10,10,4,1.53E-06,1.532574096
+Parvoviridae,Chipmunk parvovirus,Squirrel,Ondo,Lung,Herbivores,wild,1,10,10,50,1.78E-05,17.79436942
+Parvoviridae,Dependoparvovirus sp.,Squirrel,Ondo,Lung,Herbivores,wild,3,10,10,223,7.01E-05,70.12550321
+Parvoviridae,Porcine bocavirus,Squirrel,Ondo,Lung,Herbivores,wild,3,10,10,8,3.12E-06,3.123274879
+Parvoviridae,Rhinolophus pusillus adeno-associated virus 1,Squirrel,Ondo,Lung,Herbivores,wild,1,10,10,17,7.00E-06,7
+Parvoviridae,Tadarida brasiliensis associated dependoparvovirus,Squirrel,Ondo,Lung,Herbivores,wild,1,10,10,44,1.20E-05,12.00656483
+Parvoviridae,adeno-associated virus 5,Squirrel,Ondo,Lung,Herbivores,wild,2,10,10,7,1.90E-06,1.897179382
