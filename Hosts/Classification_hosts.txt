@@ -1,0 +1,117 @@
+sample	hosts	sample type 	genus 		
+AIAMA_LIZ002_OS_S50_673462	Lizard	Oral	Agama		
+AINWZLIZARD001_S58_657718	Lizard	Swab	Agama Agama		
+SEZONOWISLIZARD001_S36_657719	Lizard	Swab	Agama impalearis		
+OD_ZAD_BAT020_LIV_S21_673503	bat		Eidon Helvum		
+OD_ZAD_BAT021_LIV_S22_674095	bat		Eidon Helvum		
+OD_ZAD_BAT023_LIV_S24_673504	bat		Eidon Helvum		
+OD_ZAD_BAT024_LIV_S25_673505	bat		Eidon Helvum		
+OD_ZAD_BAT022_LIV_S23	bat		Eidon Helvum		
+OD_ZAD_BAT025_LUNG_S26_673506	bat		Eidon Helvum		
+OD_ZAD_BAT026_LUNG_S27_673507	bat		Eidon Helvum		
+OD_ZAD_BAT027_LUNG_S28_673508	bat		Eidon Helvum		
+OD_ZAD_BAT028_LUNG_S29_673509	bat		Eidon Helvum		
+OD_ZAD_BAT029_LUNG_S30_673510	bat		Eidon Helvum		
+OD_ZAD_CEG031_LIV_S1_673511	Egret		Bubulcus ibis		
+OD_ZAD_CEG032_LIV_S2_673512	Egret		Bubulcus ibis		
+OD_ZAD_CEG033_LIV_S3_673513	Egret		Bubulcus ibis		
+OD_ZAD_CEG034_LIV_S4_673514	Egret		Bubulcus ibis		
+OD_ZAD_CEG035_LIV_S5_673515	Egret		Bubulcus ibis		
+OD_ZAD_CEG036_LUNG_S6_673516	Egret		Bubulcus ibis		
+OD_ZAD_CEG037_LUNG_S7_673517	Egret		Bubulcus ibis		
+OD_ZAD_CEG038_LUNG_S8_673518	Egret		Bubulcus ibis		
+OD_ZAD_CEG039_LUNG_S9_673615	Egret		Bubulcus ibis		
+OD_ZAD_CEG040_LUNG_S10_673616	Egret		Bubulcus ibis		
+AIAMAAGR001_LIV_S46_662105			Onychomys torridus	Onychomys	Low
+AIAMAR001_LIV_S21_662106			Mastomys coucha	Mastomys	High
+AIAMAR002_LIV_S22_662107			Mastomys coucha	Mastomys	High
+AIAMAR003_LIV_S23_662108			Mastomys coucha	Mastomys	Medium
+AIAMAR004_LIV_S24_1_662161			Mastomys coucha	Mastomys	High
+AIAMAR005_LIV_S25_1_662162			Mastomys coucha	Mastomys	High
+AIAMAR006_LIV_S26_2_662165			Mastomys coucha	Mastomys	High
+AIAMAR007_LIV_S27_2_662166			Mastomys coucha	Mastomys	High
+AIAMAR008_LIV_S28_1_662167			Mastomys coucha	Mastomys	High
+AIAMAR009_LIV_S29_1_662168			Mastomys coucha	Mastomys	Medium
+AIAMAR010_LIV_S30_663038			Mastomys coucha	Mastomys	Medium
+AIAMAR011_LIV_S31_663039			Mastomys coucha	Mastomys	Medium
+AIAMAR012_LIV_S32_663040			Mastomys coucha	Mastomys	Medium
+AIAMAR013_LIV_S33_663041			Mastomys coucha	Mastomys	Medium
+AIAMAR014_LIV_S34_663042			Mastomys coucha	Mastomys	Medium
+AIAMAR015_LIV_S35_663046			Mastomys coucha	Mastomys	Medium
+AIAMAR016_LIV_S36_663047			Mastomys coucha	Mastomys	Medium
+AIAMAR017_LIV_S37_663048			Mastomys coucha	Mastomys	High
+AIAMAR018_LIV_S38_663049			Mastomys coucha	Mastomys	High
+AIAMAR019_LIV_S39_663050			Mastomys coucha	Mastomys	Medium
+AIAMAR020_LIV_S40_663051			Mastomys coucha	Mastomys	Medium
+AIMGBR021_LIV_S41_663052			Mastomys coucha	Mastomys	Medium
+AIMGBR022_LIV_S42_663077			Mastomys coucha	Mastomys	High
+AIMGBR023_LIV_S43_662128			Mastomys coucha	Mastomys	High
+AIMGBR024_LIV_S44_662129			Mastomys coucha	Mastomys	High
+AINWZAGR001_LIV_S45_662130			Jaculus jaculus	Jaculus	Low
+AINWZR001_LIV_S1_662131			Mastomys coucha	Mastomys	High
+AINWZR002_LIV_S2_662132			Mastomys coucha	Mastomys	Medium
+AINWZR003_LIV_S3_662133			Mastomys coucha	Mastomys	High
+AINWZR004_LIV_S4_662134			Mastomys coucha	Mastomys	Medium
+AINWZR005_LIV_S5_663064			Mastomys coucha	Mastomys	Medium
+AINWZR006_LIV_S6_663065			Mastomys coucha	Mastomys	High
+AINWZR007_LIV_S7_663066			Mastomys coucha	Mastomys	Medium
+AINWZR008_LIV_S8_663067			Mastomys coucha	Mastomys	Medium
+AINWZR009_LIV_S9_663068			Mastomys coucha	Mastomys	High
+AINWZR010_LIV_S10_663069			Mastomys coucha	Mastomys	Medium
+AINWZR011_LIV_S11_663070			Mastomys coucha	Mastomys	Medium
+AINWZR012_LIV_S12_663071			Mastomys coucha	Mastomys	Medium
+AINWZR013_LIV_S13_663072			Mastomys coucha	Mastomys	High
+AINWZR014_LIV_S14_663073			Mastomys coucha	Mastomys	High
+AINWZR015_LIV_S15_663078			Mastomys coucha	Mastomys	Medium
+AINWZR016_LIV_S16_663079			Mastomys coucha	Mastomys	Medium
+AINWZR017_LIV_S17_663080			Mastomys coucha	Mastomys	Medium
+AINWZR018_LIV_S18_663081			Mastomys coucha	Mastomys	High
+AINWZR019_LIV_S19_663082			Rattus rattus	Rattus	Low
+AINWZR020_LIV_S20_663083			Suncus etruscus	Suncus	Medium
+OD_ZAD_AGR001_LIV_S31_673484			Peromyscus eremicus	Peromyscus	Medium
+OD_ZAD_AGR002_LIV_S32_673485			Acomys russatus	Acomys	Medium
+OD_ZAD_AGR004_LIV_S34_673490			Cricetomys gambianus	Cricetomys	Medium
+OD_ZAD_AGR005_LIV_S35_673488			Acomys russatus	Acomys	Low
+OD_ZAD_AGR006_LUNG_S36_673489			Cricetomys gambianus	Cricetomys	Medium
+OD_ZAD_AGR007_LUNG_S52_673492			Mus musculus	Gallus	High
+OD_ZAD_AGR008_LUNG_S53_673493			Mus musculus	Pogona	High
+OD_ZAD_AGR009_LUNG_S54_673491			Mus musculus	Ovis	Medium
+OD_ZAD_AGR010_LUNG_S55_674094			Mus musculus	Sus	Medium
+OD_ZAD_SQL021_LIV_S11_673617			Sciurus carolinensis	Sciurus	High
+OD_ZAD_SQL022_LIV_S12_673618			Sciurus carolinensis	Sciurus	Medium
+OD_ZAD_SQL023_LIV_S13_673619			Sciurus carolinensis	Sciurus	Low
+OD_ZAD_SQL024_LIV_S14_673620			Sciurus carolinensis	Sciurus	Low
+OD_ZAD_SQL025_LIV_S15_673621			Sciurus carolinensis	Sciurus	Medium
+OD_ZAD_SQL026_LUNG_S16_673622			Sciurus carolinensis	Sciurus	Medium
+OD_ZAD_SQL027_LUNG_S17_673623			Sciurus carolinensis	Sciurus	Low
+OD_ZAD_SQL028_LUNG_S18_673624			Sciurus carolinensis	Sciurus	Low
+OD_ZAD_SQL029_LUNG_S19_673625			Sciurus carolinensis	Sciurus	Medium
+OD_ZAD_SQL030_LUNG_S20_673626			Marmota monax	Marmota	Medium
+SEZONOWIFRR031_LIV_S71_663085			Mastomys coucha	Mastomys	High
+SEZONOWIFRR032_LIV_S72_666406			Mastomys coucha	Mastomys	Medium
+SEZONOWIFRR033_LIV_S73_666402			Mastomys coucha	Mastomys	Medium
+SEZONOWIFRR034_LIV_S74_1_666404			Rattus rattus	Rattus	High
+SEZONOWIFRR037_LIV_S77_666399			Mastomys coucha	Mastomys	High
+SEZONOWIFRR038_LIV_S78_666400			Mastomys coucha	Mastomys	High
+SEZONOWIFRR039_LIV_S79_666401			Mastomys coucha	Mastomys	High
+SEZONOWIFRR040_LIV_S80_666396			Mastomys coucha	Mastomys	High
+SEZONOWIFRR063_LUNG_S81_666397			Mastomys coucha	Mastomys	Medium
+SEZONOWIFRR064_LUNG_S56_673522			Mastomys coucha	Mastomys	High
+SEZONOWIFRR066_LUNG_S57_673523			Mastomys coucha	Mastomys	Medium
+SEZONOWIFRR067_LUNG_S58_673524			Mastomys coucha	Mastomys	High
+SEZONOWIFRR068_LUNG_S59_673525			Rattus rattus	Rattus	High
+SEZONOWIFRR069_LUNG_S60_673526			Mastomys coucha	Mastomys	High
+SEZONOWIFRR070_LUNG_S61_673529			Mastomys coucha	Mastomys	High
+SEZONOWIFRR071_LUNG_S62_673527			Mastomys coucha	Mastomys	Medium
+SEZONOWIFRR072_LUNG_S63_673528			Mastomys coucha	Mastomys	Medium
+SEZONOWOGR002_LIV_S48_666373			Mastomys coucha	Mastomys	High
+SEZONOWOGR003_LIV_S49_666374			Mastomys coucha	Mastomys	High
+SEZONOWOGR004_LIV_S50_666375			Mastomys coucha	Mastomys	Medium
+SEZ_ON_OWIS_R001_S79_687907			Rattus rattus		
+SEZ_ON_OWIS_R002_S80_687908			Mus musculus		
+SEZ_ON_OWIS_R003_S81_687909			Mus musculus		
+SEZ_ON_OWIS_R004_S82_687910			Rattus rattus		
+SEZ_ON_OWOG_R001_S75_687911			Mus musculus		
+SEZ_ON_OWOG_R002_S76_687912			Mus musculus		
+SEZ_ON_OWOG_R003_S77_687913			Mus musculus		
+SEZ_ON_OWOG_R004_S78_687914			Mastomys coucha		

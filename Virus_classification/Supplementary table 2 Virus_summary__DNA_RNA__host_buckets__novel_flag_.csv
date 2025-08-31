@@ -1,0 +1,276 @@
+Genome type,Viral family,Virus name,Novel?,Number detected overall,Number in Bat samples,Number in Cat samples,Number in Chicken samples,Number in Dog samples,Number in Goat samples,Number in Lizard samples,Number in Pig samples,Number in Rodent samples,Number in Sheep samples,Number in Squirrel samples
+DNA,Ackermannviridae,Ackermannviridae sp.,False,1,0,0,0,1,0,0,0,0,0,0
+DNA,Ackermannviridae,Husavirus sp.,True,1,0,0,0,0,1,0,0,0,0,0
+DNA,Ackermannviridae,Wufeng rodent picorna-like virus 2,True,1,0,0,0,0,1,0,0,0,0,0
+DNA,Adenoviridae,Bovine adenovirus 2,False,1,0,0,0,0,1,0,0,0,0,0
+DNA,Adenoviridae,Fowl adenovirus,False,3,0,0,0,0,3,0,0,0,0,0
+DNA,Adenoviridae,Fowl aviadenovirus 2,False,2,0,0,0,0,2,0,0,0,0,0
+DNA,Adenoviridae,Fowl aviadenovirus 8,False,1,0,0,0,0,1,0,0,0,0,0
+DNA,Adenoviridae,Fowl aviadenovirus D,False,3,0,0,0,0,3,0,0,0,0,0
+DNA,Adenoviridae,Fowl aviadenovirus E,False,1,0,0,0,0,1,0,0,0,0,0
+DNA,Adenoviridae,Human adenovirus 12,False,1,0,0,0,0,1,0,0,0,0,0
+DNA,Adenoviridae,Human adenovirus 18,False,1,0,0,0,1,0,0,0,0,0,0
+DNA,Adenoviridae,Human adenovirus 76,False,1,0,0,0,0,1,0,0,0,0,0
+DNA,Adenoviridae,Murine adenovirus 3,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Adenoviridae,Ovine adenovirus 8,False,1,0,0,0,0,1,0,0,0,0,0
+DNA,Adenoviridae,Tree shrew adenovirus 1,True,1,0,0,1,0,0,0,0,0,0,0
+DNA,Adintoviridae,Terrapene box turtle adintovirus,True,3,0,0,0,0,0,2,0,1,0,0
+DNA,Anelloviridae,Anelloviridae sp.,True,2,0,0,0,0,0,0,0,1,0,1
+DNA,Anelloviridae,Mosquito VEM Anellovirus SDBVL B,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Anelloviridae,Nayun tick torquevirus,False,3,0,0,0,2,1,0,0,0,0,0
+DNA,Anelloviridae,Torque teno calomys tener virus,True,1,0,0,0,0,0,0,0,1,0,0
+DNA,Anelloviridae,Torque teno sus virus k2a,True,1,0,0,0,0,0,0,0,0,0,1
+DNA,Circoviridae,Bat circovirus,True,1,0,0,0,0,0,0,0,0,0,1
+DNA,Circoviridae,Beaked whale circovirus,True,1,0,0,0,0,0,0,0,0,0,1
+DNA,Circoviridae,Canine circovirus,False,1,0,0,0,1,0,0,0,0,0,0
+DNA,Circoviridae,Circoviridae sp.,True,1,0,0,0,0,0,1,0,0,0,0
+DNA,Circoviridae,Circovirus gnaver,True,18,0,0,0,0,0,0,0,18,0,0
+DNA,Circoviridae,Circovirus rongeur,True,1,0,0,0,0,0,0,0,0,0,1
+DNA,Circoviridae,Circovirus sp.,False,2,0,0,0,0,0,0,1,1,0,0
+DNA,Circoviridae,Erysiphe necator associated virus 1,False,1,0,0,0,0,1,0,0,0,0,0
+DNA,Circoviridae,Giant panda circovirus 6,False,3,0,0,0,0,0,0,0,3,0,0
+DNA,Circoviridae,Po-Circo-like virus,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Circoviridae,Porcine circovirus 5,False,2,0,0,0,0,0,0,1,1,0,0
+DNA,Circoviridae,Porcine stool-associated circular virus 4,True,1,0,0,0,0,1,0,0,0,0,0
+DNA,Circoviridae,Porcine stool-associated circular virus/BEL/15V010,False,2,0,0,0,0,0,0,1,1,0,0
+DNA,Demerecviridae,Escherichia phage Lindwurm,True,1,0,0,0,1,0,0,0,0,0,0
+DNA,Drexlerviridae,Vibrio phage Vc1,True,1,0,0,0,0,1,0,0,0,0,0
+DNA,Duinviridae,ssRNA phage SRR5995670_1,True,1,0,0,0,0,1,0,0,0,0,0
+DNA,Orthoherpesviridae,Alcelaphine gammaherpesvirus 1,True,1,0,0,0,0,0,0,1,0,0,0
+DNA,Orthoherpesviridae,Bovine gammaherpesvirus 6,False,3,0,0,0,0,0,0,2,0,1,0
+DNA,Orthoherpesviridae,Canid alphaherpesvirus 1,False,1,0,0,0,1,0,0,0,0,0,0
+DNA,Orthoherpesviridae,Caprine gammaherpesvirus 2,False,2,0,0,0,0,2,0,0,0,0,0
+DNA,Orthoherpesviridae,Gallid alphaherpesvirus 2,True,2,0,0,1,0,0,0,0,1,0,0
+DNA,Orthoherpesviridae,Gallid alphaherpesvirus 3,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Orthoherpesviridae,Marek's disease virus serotype 2 MDV2,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Orthoherpesviridae,Mastomys natalensis cytomegalovirus 1,True,2,0,0,0,0,0,0,0,2,0,0
+DNA,Orthoherpesviridae,Mastomys natalensis cytomegalovirus 3,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Orthoherpesviridae,Meleagrid alphaherpesvirus 1,True,1,0,0,0,0,0,0,0,1,0,0
+DNA,Orthoherpesviridae,Murid betaherpesvirus 1,True,2,0,0,0,0,0,0,0,2,0,0
+DNA,Orthoherpesviridae,Murid betaherpesvirus 2,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Orthoherpesviridae,Murid betaherpesvirus 8,False,2,0,0,0,0,0,0,0,2,0,0
+DNA,Orthoherpesviridae,Murid gammaherpesvirus 4,True,1,0,0,0,0,0,0,0,1,0,0
+DNA,Orthoherpesviridae,Murine cytomegalovirus (strain K181),True,1,0,0,0,0,0,0,0,1,0,0
+DNA,Orthoherpesviridae,Ovine gammaherpesvirus 2,True,3,0,0,0,0,2,0,1,0,0,0
+DNA,Orthoherpesviridae,Ovine herpesvirus 1,False,2,0,0,0,0,0,0,1,0,1,0
+DNA,Orthoherpesviridae,Porcine lymphotropic herpesvirus 2,False,1,0,0,0,0,0,0,1,0,0,0
+DNA,Orthoherpesviridae,Porcine lymphotropic herpesvirus 3,False,1,0,0,0,0,0,0,1,0,0,0
+DNA,Orthoherpesviridae,Rat cytomegalovirus ALL-03,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Orthoherpesviridae,human gammaherpesvirus 4,False,3,0,0,0,0,3,0,0,0,0,0
+DNA,Papillomaviridae,Canine papillomavirus 21,False,3,0,0,0,3,0,0,0,0,0,0
+DNA,Papillomaviridae,Canine papillomavirus 22,True,1,0,0,0,1,0,0,0,0,0,0
+DNA,Papillomaviridae,Canine papillomavirus 23,True,1,0,0,0,1,0,0,0,0,0,0
+DNA,Papillomaviridae,Canis familiaris papillomavirus 19,False,2,0,0,0,2,0,0,0,0,0,0
+DNA,Papillomaviridae,Canis familiaris papillomavirus 7,False,2,0,0,0,2,0,0,0,0,0,0
+DNA,Papillomaviridae,Human papillomavirus,True,1,0,0,0,0,0,1,0,0,0,0
+DNA,Papillomaviridae,Human papillomavirus 155,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Papillomaviridae,Human papillomavirus 38,False,1,0,0,0,1,0,0,0,0,0,0
+DNA,Papillomaviridae,Leptonychotes weddellii papillomavirus 4,True,1,0,0,0,0,0,1,0,0,0,0
+DNA,Papillomaviridae,Miniopterus schreibersii papillomavirus 1,True,1,0,0,0,0,0,1,0,0,0,0
+DNA,Parvoviridae,Adeno-associated virus,True,6,0,0,0,1,0,0,0,0,0,5
+DNA,Parvoviridae,Avian adeno-associated virus,False,2,0,0,0,0,2,0,0,0,0,0
+DNA,Parvoviridae,Avian adeno-associated virus strain DA-1,False,1,0,0,0,0,1,0,0,0,0,0
+DNA,Parvoviridae,Bovine hokovirus 2,True,1,0,0,0,0,0,0,0,0,0,1
+DNA,Parvoviridae,Canine minute virus,False,2,0,0,0,2,0,0,0,0,0,0
+DNA,Parvoviridae,Canine parvovirus,False,4,0,0,0,3,0,0,0,0,1,0
+DNA,Parvoviridae,Chimpanzee parv4,True,1,0,0,0,0,0,0,0,0,0,1
+DNA,Parvoviridae,Chipmunk parvovirus,False,2,0,0,0,0,0,0,0,0,0,2
+DNA,Parvoviridae,Dependoparvovirus primate1,False,1,0,0,0,1,0,0,0,0,0,0
+DNA,Parvoviridae,Dependoparvovirus sp.,True,3,0,0,0,0,1,0,0,0,0,2
+DNA,Parvoviridae,Human parvovirus 4,True,1,0,0,0,0,0,0,0,0,0,1
+DNA,Parvoviridae,Megabat bufavirus 1,False,1,1,0,0,0,0,0,0,0,0,0
+DNA,Parvoviridae,Parvovirinae sp.,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Parvoviridae,Porcine bocavirus,False,3,0,0,0,0,0,0,2,1,0,0
+DNA,Parvoviridae,Porcine bocavirus 3,False,2,0,0,0,0,0,0,1,1,0,0
+DNA,Parvoviridae,Porcine bocavirus 3/64-1/N.Ireland/2004,False,1,0,0,0,0,0,0,1,0,0,0
+DNA,Parvoviridae,Porcine bocavirus 3C,False,1,0,0,0,0,0,0,0,1,0,0
+DNA,Parvoviridae,Protoparvovirus Zsana/2013/HUN,False,1,0,0,0,0,0,0,1,0,0,0
+DNA,Parvoviridae,Protoparvovirus carnivoran1,False,2,0,0,0,1,1,0,0,0,0,0
+DNA,Parvoviridae,Protoparvovirus sp.,False,2,0,0,0,0,2,0,0,0,0,0
+DNA,Parvoviridae,Rat parvovirus 2,True,1,0,0,0,0,0,0,0,1,0,0
+DNA,Parvoviridae,Rhinolophus pusillus adeno-associated virus 1,True,2,0,0,0,0,0,0,0,0,0,2
+DNA,Parvoviridae,Tadarida brasiliensis associated dependoparvovirus,True,1,0,0,0,0,0,0,0,0,0,1
+DNA,Parvoviridae,sabeidhel virus 1,False,2,2,0,0,0,0,0,0,0,0,0
+DNA,Polyomaviridae,Betapolyomavirus canis,False,1,0,0,0,1,0,0,0,0,0,0
+DNA,Polyomaviridae,Merkel cell polyomavirus,False,1,0,0,0,0,1,0,0,0,0,0
+DNA,Poxviridae,Orf virus,False,4,0,0,0,0,3,0,1,0,0,0
+RNA,Alphaflexiviridae,Cassava common mosaic virus,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Alphaflexiviridae,Dioscorea potexvirus 1,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Alphaflexiviridae,Yam virus X,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Arenaviridae,Mammarenavirus lassaense,False,6,0,0,0,0,0,0,0,6,0,0
+RNA,Astroviridae,Astrovirus HK-2014,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Astroviridae,Astrovirus MLB2,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Astroviridae,Astrovirus wild boar/WBAstV-1/2011/HUN,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Astroviridae,Bovine astrovirus,True,2,0,0,0,0,2,0,0,0,0,0
+RNA,Astroviridae,Bovine astrovirus B170/HK,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Astroviridae,Caprine astrovirus,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Astroviridae,Chicken astrovirus,False,2,0,0,1,0,1,0,0,0,0,0
+RNA,Astroviridae,Hainan astro-like virus 1,True,1,0,0,0,1,0,0,0,0,0,0
+RNA,Astroviridae,Hainan astro-like virus 2,True,1,0,0,0,1,0,0,0,0,0,0
+RNA,Astroviridae,Henan avastrovirus,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Astroviridae,Hubei mamastrovirus 1,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Astroviridae,Human astrovirus,False,2,0,0,0,1,1,0,0,0,0,0
+RNA,Astroviridae,Human astrovirus 1,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Astroviridae,Human astrovirus MLB3,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Astroviridae,Jiangsu mamastrovirus 1,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Astroviridae,Jiangsu mamastrovirus 2,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Astroviridae,Mamastrovirus 1,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Astroviridae,Mamastrovirus 13,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Astroviridae,Mamastrovirus 3,False,3,0,0,0,0,0,0,2,1,0,0
+RNA,Astroviridae,Mamastrovirus sp.,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Astroviridae,Ovine astrovirus S5.1,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Astroviridae,Ovine astrovirus S6.1,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Astroviridae,Pig astrovirus ahast-2,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Astroviridae,Porcine astrovirus 2,False,2,0,0,0,0,0,0,1,1,0,0
+RNA,Astroviridae,Porcine astrovirus 4,False,2,0,0,0,0,0,0,1,1,0,0
+RNA,Astroviridae,Turkey astrovirus,False,2,0,0,0,0,2,0,0,0,0,0
+RNA,Astroviridae,Turkey astrovirus 1,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Astroviridae,Water buffalo astrovirus,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Betaflexiviridae,Cowpea mild mottle virus,False,2,0,0,0,0,2,0,0,0,0,0
+RNA,Betaflexiviridae,Yam virus Y,False,1,0,0,0,0,0,0,0,0,1,0
+RNA,Botourmiaviridae,Botourmiaviridae sp.,True,1,0,0,0,1,0,0,0,0,0,0
+RNA,Bromoviridae,Cucumber mosaic virus,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Caliciviridae,Canine vesivirus,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Caliciviridae,Feline calicivirus,False,1,0,1,0,0,0,0,0,0,0,0
+RNA,Caliciviridae,Norovirus 09-BI-2/2009/GII.4/NewOrleans/2009,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Caliciviridae,Norovirus GII,False,3,0,0,0,2,1,0,0,0,0,0
+RNA,Caliciviridae,Norovirus Hu/GII.2/SnowMountRS/1975/USA,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Caliciviridae,Norovirus Hu/GII/BG1C0301/2011/BGD,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Caliciviridae,Sapovirus Hu/Kumamoto130/Jul2010/JPN,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Coronaviridae,Avian coronavirus,False,5,0,0,0,1,2,0,0,2,0,0
+RNA,Coronaviridae,Betacoronavirus 1,False,5,0,0,0,0,4,0,0,0,1,0
+RNA,Coronaviridae,Bovine coronavirus,False,4,0,0,0,0,3,0,0,0,1,0
+RNA,Coronaviridae,Bovine coronavirus E-AH65-TC,False,1,0,0,0,0,0,0,0,0,1,0
+RNA,Coronaviridae,Bovine coronavirus isolate Alpaca,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Coronaviridae,Canine respiratory coronavirus,False,1,0,0,0,0,0,0,0,0,1,0
+RNA,Coronaviridae,Dromedary camel coronavirus HKU23,False,3,0,0,0,0,2,0,0,0,1,0
+RNA,Coronaviridae,Duck coronavirus 2714,False,2,0,0,1,0,0,0,0,1,0,0
+RNA,Coronaviridae,Duck-dominant coronavirus,False,2,0,0,1,0,0,0,0,1,0,0
+RNA,Coronaviridae,Gammacoronavirus sp.,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Coronaviridae,Human coronavirus OC43,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Coronaviridae,Infectious bronchitis virus,False,5,0,0,1,1,1,0,0,2,0,0
+RNA,Coronaviridae,Pigeon-dominant Coronavirus,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Coronaviridae,Sambar deer coronavirus US/OH-WD388-TC/1994,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Endornaviridae,Cucumis melo alphaendornavirus,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Fiersviridae,Leviviridae sp.,True,5,0,0,0,1,2,0,1,1,0,0
+RNA,Iflaviridae,Longquan rodent iflavirus 1,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Mitoviridae,Ambrosia artemisiifolia mitovirus 1,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Mitoviridae,Hangzhou mitovirus 6,True,1,0,0,0,1,0,0,0,0,0,0
+RNA,Mitoviridae,Mitovirus JS3,True,2,0,0,1,0,1,0,0,0,0,0
+RNA,Nairoviridae,Orthonairovirus thiaforaense,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Paramyxoviridae,peste-des-petits-ruminants virus,False,2,0,0,0,0,2,0,0,0,0,0
+RNA,Partitiviridae,Partitiviridae sp.,True,7,0,0,0,1,2,0,2,1,1,0
+RNA,Partitiviridae,Rosellinia necatrix partitivirus 21,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Partitiviridae,Sarcosphaera coronaria partitivirus,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Picobirnaviridae,Agile wallaby-associated picobirnavirus 9,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picobirnaviridae,Bovine picobirnavirus,True,8,0,0,0,0,6,0,1,0,1,0
+RNA,Picobirnaviridae,Dromedary picobirnavirus,True,7,0,0,0,0,4,0,1,1,1,0
+RNA,Picobirnaviridae,Fox picobirnavirus,False,2,0,0,0,0,2,0,0,0,0,0
+RNA,Picobirnaviridae,Genet fecal picobirnavirus,False,1,0,0,0,0,0,0,0,0,1,0
+RNA,Picobirnaviridae,Human picobirnavirus,False,3,0,0,0,0,2,0,1,0,0,0
+RNA,Picobirnaviridae,Lysoka partiti-like virus,True,2,0,0,0,2,0,0,0,0,0,0
+RNA,Picobirnaviridae,Lysoka picobirna-like virus,True,1,0,0,0,0,0,0,0,0,1,0
+RNA,Picobirnaviridae,Marmot picobirnavirus,True,4,0,0,0,1,2,0,0,0,1,0
+RNA,Picobirnaviridae,Mongoose picobirnavirus,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picobirnaviridae,Otarine picobirnavirus,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Picobirnaviridae,Picobirnaviridae sp.,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picobirnaviridae,Picobirnaviridae sp. ct6rZ1,True,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picobirnaviridae,Picobirnavirus SPBV-3,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picobirnaviridae,Picobirnavirus sp.,True,32,0,0,2,4,20,0,2,1,3,0
+RNA,Picobirnaviridae,Porcine picobirnavirus,True,24,0,0,0,4,17,0,1,1,1,0
+RNA,Picobirnaviridae,Rodent associated picobirnavirus,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picobirnaviridae,Simian picobirnavirus,True,3,0,0,0,1,2,0,0,0,0,0
+RNA,Picobirnaviridae,Turkey picobirnavirus,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picobirnaviridae,nabpantry virus 10,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Piconaviridae,Kagge virus,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Picornaviridae,Ageratum virus 2,False,1,0,0,0,0,0,0,0,0,1,0
+RNA,Picornaviridae,Anativirus sp.,False,2,0,0,0,1,0,0,0,1,0,0
+RNA,Picornaviridae,Bopivirus sp.,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Bovine hokovirus 2,True,1,0,0,0,0,0,0,0,0,0,1
+RNA,Picornaviridae,Canine kobuvirus,False,5,0,0,0,3,2,0,0,0,0,0
+RNA,Picornaviridae,Canine kobuvirus 1,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Canine picornavirus,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Chicken picornavirus 4,False,2,0,0,0,1,0,0,1,0,0,0
+RNA,Picornaviridae,Chicken picornavirus UCC/PhV,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Picornaviridae,Coxsackievirus A13,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Coxsackievirus A20,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Coxsackievirus B2,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Echovirus E24,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Echovirus E25,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Echovirus E7,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Enterovirus G,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Picornaviridae,Hubei picobirna-like virus 4,True,1,0,0,0,0,0,0,0,0,1,0
+RNA,Picornaviridae,Human enterovirus,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Human hepatitis A virus,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Human parechovirus 2,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Human parechovirus 5,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Jingmen bat picorna-like virus 1,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Jingmen bat picorna-like virus 2,True,1,0,0,0,0,0,0,0,1,0,0
+RNA,Picornaviridae,Jingmen picorna-like virus,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Kobuvirus cebes,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Picornaviridae,Kobuvirus sp.,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Marmot kobuvirus,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Megrivirus sp.,False,8,0,0,1,1,4,0,1,1,0,0
+RNA,Picornaviridae,Monexpicovirus 1,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Monexpicovirus 2,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Ousland virus,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Parechovirus A,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Pasivirus A,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Picornaviridae,Pasivirus A1,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Picornaviridae,Phacovirus sp.,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Picornaviridae,Picornavirales sp.,True,4,0,0,1,2,1,0,0,0,0,0
+RNA,Picornaviridae,Picornaviridae sp.,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Poliovirus 2,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Porcine kobuvirus,False,3,0,0,0,0,0,0,2,1,0,0
+RNA,Picornaviridae,Posavirus 1,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Picornaviridae,Posavirus 12,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,Rhinovirus A,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,Riboviria sp.,True,3,0,0,0,0,1,0,0,2,0,0
+RNA,Picornaviridae,Sicinivirus A,False,2,0,0,0,1,1,0,0,0,0,0
+RNA,Picornaviridae,Sicinivirus sp.,False,4,0,0,0,1,2,0,0,1,0,0
+RNA,Picornaviridae,aichivirus A2,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,aichivirus A6,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,aichivirus A8,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,aichivirus B3,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,cosavirus A20,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,megrivirus C1,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,megrivirus C2,False,4,0,0,1,0,2,0,0,1,0,0
+RNA,Picornaviridae,parechovirus A1,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Picornaviridae,rhinovirus A31,False,1,0,0,0,1,0,0,0,0,0,0
+RNA,Picornaviridae,teschovirus A2,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Picornaviridae,teschovirus A9,False,1,0,0,0,0,0,0,0,1,0,0
+RNA,Pneumoviridae,Bovine orthopneumovirus,False,2,0,0,0,0,2,0,0,0,0,0
+RNA,Potyviridae,Celery mosaic virus,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Potyviridae,Endive yellows virus,True,2,0,0,0,0,0,0,1,0,1,0
+RNA,Potyviridae,Lettuce mosaic virus,True,1,0,0,0,0,0,0,0,0,1,0
+RNA,Potyviridae,Ornamental onion stripe mosaic virus,True,1,0,0,0,0,0,0,0,0,1,0
+RNA,Potyviridae,Plum pox virus,True,1,0,0,0,0,0,0,0,0,1,0
+RNA,Potyviridae,Polygonatnum kingianum mottle virus,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Potyviridae,Potyvirus sp.,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Potyviridae,Vanilla distortion mosaic virus,True,2,0,0,0,0,0,0,1,0,1,0
+RNA,Potyviridae,Yambean mosaic virus,False,1,0,0,0,0,1,0,0,0,0,0
+RNA,Reoviridae,Feline foamy virus,False,1,0,1,0,0,0,0,0,0,0,0
+RNA,Retroviridae,Feline foamy virus,False,2,0,2,0,0,0,0,0,0,0,0
+RNA,Sedoreoviridae,Human rotavirus A,False,5,0,0,0,1,2,0,1,1,0,0
+RNA,Sedoreoviridae,Porcine rotavirus,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Sedoreoviridae,Porcine rotavirus A,False,2,0,0,0,0,0,0,2,0,0,0
+RNA,Sedoreoviridae,Porcine rotavirus HP140,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Sedoreoviridae,Rotavirus A,False,6,0,0,0,1,2,0,2,1,0,0
+RNA,Sedoreoviridae,Rotavirus F,False,2,0,0,0,0,2,0,0,0,0,0
+RNA,Sedoreoviridae,Rotavirus sp.,False,3,0,0,0,0,3,0,0,0,0,0
+RNA,Solemoviridae,Physalis rugose mosaic virus,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Solemoviridae,Southern cowpea mosaic virus,True,1,0,0,0,0,0,0,1,0,0,0
+RNA,Spinareoviridae,Avian orthoreovirus,False,1,0,0,0,0,0,0,0,0,1,0
+RNA,Tobaniviridae,Antelope torovirus,False,4,0,0,0,0,3,0,0,0,1,0
+RNA,Tobaniviridae,Bovine nidovirus 1,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Tobaniviridae,Bovine nidovirus TCH5,False,1,0,0,0,0,0,0,1,0,0,0
+RNA,Tobaniviridae,Bovine torovirus,True,2,0,0,0,0,2,0,0,0,0,0
+RNA,Tobaniviridae,Breda virus,False,5,0,0,0,0,4,0,0,0,1,0
+RNA,Tobaniviridae,Goat torovirus,False,7,0,0,0,0,6,0,0,0,1,0
+RNA,Tobaniviridae,Torovirus sp.,False,4,0,0,0,0,4,0,0,0,0,0
+RNA,Tombusviridae,Coyote tobacco stunting virus,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Tombusviridae,Ixeridium yellow mottle virus 2,True,1,0,0,0,0,0,0,0,0,1,0
+RNA,Tombusviridae,Trailing lespedeza virus 1,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Totiviridae,Totiviridae sp.,True,1,0,0,0,0,1,0,0,0,0,0
+RNA,Tymoviridae,Nanning tick virus 2,True,1,0,0,1,0,0,0,0,0,0,0
+RNA,Zierdtviridae,Corynebacterium phage Stickynote,True,1,0,0,0,0,0,0,1,0,0,0

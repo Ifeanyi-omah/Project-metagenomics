@@ -1,0 +1,4 @@
+
+# ignore large logs
+Scripts/changed_scylla_files/*.log
+*.log

@@ -1,0 +1,802 @@
+N E X T F L O W  ~  version 23.10.1
+Launching `main.nf` [nostalgic_gates] DSL2 - revision: 3bb193a319
+[-        ] process > process_run:get_params_and_versions:get_versions                                                      -
+[-        ] process > process_run:get_params_and_versions:get_params                                                        -
+[-        ] process > process_run:process_barcode:move_or_compress                                                          -
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats                                  -
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+
+[-        ] process > process_run:get_params_and_versions:get_versions                                                      -
+[-        ] process > process_run:get_params_and_versions:get_params                                                        -
+[-        ] process > process_run:process_barcode:move_or_compress                                                          -
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats                                  -
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+illumina, true, megahit
+[SEZONOWIFRR033_LIV_S73, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R2_001.fastq.gz]]
+[AINWZR019_LIV_S19, [/localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R2_001.fastq.gz]]
+[AINWZR018_LIV_S18, [/localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R2_001.fastq.gz]]
+[SEZONOWIFRR035_LIV_S75, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R2_001.fastq.gz]]
+[SEZONOWIFRR036_LIV_S76, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R2_001.fastq.gz]]
+[SEZONOWIFRR031_LIV_S71, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R2_001.fastq.gz]]
+[SEZONOWIFRR034_LIV_S74, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R2_001.fastq.gz]]
+[NE_S82, [/localdisk/home/shared/Rodent3a/NE_S82_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/NE_S82_R2_001.fastq.gz]]
+[AINWZR017_LIV_S17, [/localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R2_001.fastq.gz]]
+[AINWZR020_LIV_S20, [/localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R2_001.fastq.gz]]
+[SEZONOWIFRR032_LIV_S72, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R2_001.fastq.gz]]
+
+executor >  local (7)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [  0%] 0 of 1
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [  0%] 0 of 1
+[e0/f0d396] process > process_run:process_barcode:move_or_compress (1)                                                      [  0%] 0 of 11
+[ae/240f9a] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (2)                              [  0%] 0 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+illumina, true, megahit
+[SEZONOWIFRR033_LIV_S73, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R2_001.fastq.gz]]
+[AINWZR019_LIV_S19, [/localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R2_001.fastq.gz]]
+[AINWZR018_LIV_S18, [/localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R2_001.fastq.gz]]
+[SEZONOWIFRR035_LIV_S75, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R2_001.fastq.gz]]
+[SEZONOWIFRR036_LIV_S76, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R2_001.fastq.gz]]
+[SEZONOWIFRR031_LIV_S71, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R2_001.fastq.gz]]
+[SEZONOWIFRR034_LIV_S74, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R2_001.fastq.gz]]
+[NE_S82, [/localdisk/home/shared/Rodent3a/NE_S82_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/NE_S82_R2_001.fastq.gz]]
+[AINWZR017_LIV_S17, [/localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R2_001.fastq.gz]]
+[AINWZR020_LIV_S20, [/localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R2_001.fastq.gz]]
+[SEZONOWIFRR032_LIV_S72, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R2_001.fastq.gz]]
+
+executor >  local (7)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [  0%] 0 of 1
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [  0%] 0 of 1
+[e0/f0d396] process > process_run:process_barcode:move_or_compress (1)                                                      [  0%] 0 of 11
+[ae/240f9a] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (2)                              [  0%] 0 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+illumina, true, megahit
+[SEZONOWIFRR033_LIV_S73, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R2_001.fastq.gz]]
+[AINWZR019_LIV_S19, [/localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R2_001.fastq.gz]]
+[AINWZR018_LIV_S18, [/localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R2_001.fastq.gz]]
+[SEZONOWIFRR035_LIV_S75, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R2_001.fastq.gz]]
+[SEZONOWIFRR036_LIV_S76, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R2_001.fastq.gz]]
+[SEZONOWIFRR031_LIV_S71, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R2_001.fastq.gz]]
+[SEZONOWIFRR034_LIV_S74, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R2_001.fastq.gz]]
+[NE_S82, [/localdisk/home/shared/Rodent3a/NE_S82_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/NE_S82_R2_001.fastq.gz]]
+[AINWZR017_LIV_S17, [/localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R2_001.fastq.gz]]
+[AINWZR020_LIV_S20, [/localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R2_001.fastq.gz]]
+[SEZONOWIFRR032_LIV_S72, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R2_001.fastq.gz]]
+
+executor >  local (7)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [  0%] 0 of 1
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[e0/f0d396] process > process_run:process_barcode:move_or_compress (1)                                                      [  0%] 0 of 11
+[ae/240f9a] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (2)                              [  0%] 0 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+illumina, true, megahit
+[SEZONOWIFRR033_LIV_S73, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R2_001.fastq.gz]]
+[AINWZR019_LIV_S19, [/localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R2_001.fastq.gz]]
+[AINWZR018_LIV_S18, [/localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R2_001.fastq.gz]]
+[SEZONOWIFRR035_LIV_S75, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R2_001.fastq.gz]]
+[SEZONOWIFRR036_LIV_S76, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R2_001.fastq.gz]]
+[SEZONOWIFRR031_LIV_S71, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R2_001.fastq.gz]]
+[SEZONOWIFRR034_LIV_S74, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R2_001.fastq.gz]]
+[NE_S82, [/localdisk/home/shared/Rodent3a/NE_S82_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/NE_S82_R2_001.fastq.gz]]
+[AINWZR017_LIV_S17, [/localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R2_001.fastq.gz]]
+[AINWZR020_LIV_S20, [/localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R2_001.fastq.gz]]
+[SEZONOWIFRR032_LIV_S72, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R2_001.fastq.gz]]
+
+executor >  local (7)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [  0%] 0 of 1
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[e0/f0d396] process > process_run:process_barcode:move_or_compress (1)                                                      [  0%] 0 of 11
+[ae/240f9a] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (2)                              [  0%] 0 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+illumina, true, megahit
+[SEZONOWIFRR033_LIV_S73, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R2_001.fastq.gz]]
+[AINWZR019_LIV_S19, [/localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R2_001.fastq.gz]]
+[AINWZR018_LIV_S18, [/localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R2_001.fastq.gz]]
+[SEZONOWIFRR035_LIV_S75, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R2_001.fastq.gz]]
+[SEZONOWIFRR036_LIV_S76, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R2_001.fastq.gz]]
+[SEZONOWIFRR031_LIV_S71, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R2_001.fastq.gz]]
+[SEZONOWIFRR034_LIV_S74, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R2_001.fastq.gz]]
+[NE_S82, [/localdisk/home/shared/Rodent3a/NE_S82_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/NE_S82_R2_001.fastq.gz]]
+[AINWZR017_LIV_S17, [/localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R2_001.fastq.gz]]
+[AINWZR020_LIV_S20, [/localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R2_001.fastq.gz]]
+[SEZONOWIFRR032_LIV_S72, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R2_001.fastq.gz]]
+Staging foreign file: https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz
+
+executor >  local (8)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[4f/e6388f] process > process_run:process_barcode:move_or_compress (6)                                                      [  0%] 0 of 11
+[ae/240f9a] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (2)                              [  0%] 0 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+illumina, true, megahit
+[SEZONOWIFRR033_LIV_S73, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R2_001.fastq.gz]]
+[AINWZR019_LIV_S19, [/localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R2_001.fastq.gz]]
+[AINWZR018_LIV_S18, [/localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R2_001.fastq.gz]]
+[SEZONOWIFRR035_LIV_S75, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R2_001.fastq.gz]]
+[SEZONOWIFRR036_LIV_S76, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R2_001.fastq.gz]]
+[SEZONOWIFRR031_LIV_S71, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R2_001.fastq.gz]]
+[SEZONOWIFRR034_LIV_S74, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R2_001.fastq.gz]]
+[NE_S82, [/localdisk/home/shared/Rodent3a/NE_S82_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/NE_S82_R2_001.fastq.gz]]
+[AINWZR017_LIV_S17, [/localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R2_001.fastq.gz]]
+[AINWZR020_LIV_S20, [/localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R2_001.fastq.gz]]
+[SEZONOWIFRR032_LIV_S72, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R2_001.fastq.gz]]
+Staging foreign file: https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz
+
+executor >  local (8)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[4f/e6388f] process > process_run:process_barcode:move_or_compress (6)                                                      [  0%] 0 of 11
+[ae/240f9a] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (2)                              [  0%] 0 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+illumina, true, megahit
+[SEZONOWIFRR033_LIV_S73, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR033_LIV_S73_R2_001.fastq.gz]]
+[AINWZR019_LIV_S19, [/localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR019_LIV_S19_R2_001.fastq.gz]]
+[AINWZR018_LIV_S18, [/localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR018_LIV_S18_R2_001.fastq.gz]]
+[SEZONOWIFRR035_LIV_S75, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR035_LIV_S75_R2_001.fastq.gz]]
+[SEZONOWIFRR036_LIV_S76, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR036_LIV_S76_R2_001.fastq.gz]]
+[SEZONOWIFRR031_LIV_S71, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR031_LIV_S71_R2_001.fastq.gz]]
+[SEZONOWIFRR034_LIV_S74, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR034_LIV_S74_R2_001.fastq.gz]]
+[NE_S82, [/localdisk/home/shared/Rodent3a/NE_S82_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/NE_S82_R2_001.fastq.gz]]
+[AINWZR017_LIV_S17, [/localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR017_LIV_S17_R2_001.fastq.gz]]
+[AINWZR020_LIV_S20, [/localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/AINWZR020_LIV_S20_R2_001.fastq.gz]]
+[SEZONOWIFRR032_LIV_S72, [/localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R1_001.fastq.gz, /localdisk/home/shared/Rodent3a/SEZONOWIFRR032_LIV_S72_R2_001.fastq.gz]]
+Staging foreign file: https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz
+[skipping] Stored process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy
+
+executor >  local (9)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[4f/e6388f] process > process_run:process_barcode:move_or_compress (6)                                                      [  0%] 0 of 11
+[d5/6db7b2] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (3)                              [  4%] 1 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+executor >  local (10)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[4f/e6388f] process > process_run:process_barcode:move_or_compress (6)                                                      [  0%] 0 of 11
+[29/9aa094] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (1)                              [  9%] 2 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+executor >  local (10)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[4f/e6388f] process > process_run:process_barcode:move_or_compress (6)                                                      [  0%] 0 of 11
+[29/9aa094] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (1)                              [  9%] 2 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (11)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[4f/e6388f] process > process_run:process_barcode:move_or_compress (6)                                                      [  0%] 0 of 11
+[61/e6c635] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (21)                             [ 13%] 3 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client -
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (12)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[f6/dae681] process > process_run:process_barcode:move_or_compress (8)                                                      [  9%] 1 of 11
+[61/e6c635] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (21)                             [ 13%] 3 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 1
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (13)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[c4/faccc7] process > process_run:process_barcode:move_or_compress (3)                                                      [ 18%] 2 of 11
+[61/e6c635] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (21)                             [ 13%] 3 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 1
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (14)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[69/ece8a8] process > process_run:process_barcode:move_or_compress (5)                                                      [ 27%] 3 of 11
+[61/e6c635] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (21)                             [ 13%] 3 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 3
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (15)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[69/ece8a8] process > process_run:process_barcode:move_or_compress (5)                                                      [ 27%] 3 of 11
+[cc/492932] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (11)                             [ 18%] 4 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 3
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (16)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[97/25fda4] process > process_run:process_barcode:move_or_compress (11)                                                     [ 36%] 4 of 11
+[cc/492932] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (11)                             [ 18%] 4 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 4
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (17)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[97/25fda4] process > process_run:process_barcode:move_or_compress (11)                                                     [ 36%] 4 of 11
+[77/d6c308] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (12)                             [ 22%] 5 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 4
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (18)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[97/25fda4] process > process_run:process_barcode:move_or_compress (11)                                                     [ 36%] 4 of 11
+[28/c241d4] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (8)                              [ 27%] 6 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 4
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (19)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[d0/5a7ae0] process > process_run:process_barcode:move_or_compress (7)                                                      [ 45%] 5 of 11
+[28/c241d4] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (8)                              [ 27%] 6 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 5
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (19)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[d0/5a7ae0] process > process_run:process_barcode:move_or_compress (7)                                                      [ 45%] 5 of 11
+[28/c241d4] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (8)                              [ 27%] 6 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 5
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (20)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[34/1fed9a] process > process_run:process_barcode:move_or_compress (2)                                                      [ 54%] 6 of 11
+[28/c241d4] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (8)                              [ 27%] 6 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 6
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (21)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[5b/ade1f3] process > process_run:process_barcode:move_or_compress (4)                                                      [ 63%] 7 of 11
+[28/c241d4] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (8)                              [ 27%] 6 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 7
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (21)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[5b/ade1f3] process > process_run:process_barcode:move_or_compress (4)                                                      [ 63%] 7 of 11
+[28/c241d4] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (8)                              [ 27%] 6 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 7
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (22)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[5b/ade1f3] process > process_run:process_barcode:move_or_compress (4)                                                      [ 63%] 7 of 11
+[bf/a432cc] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (7)                              [ 31%] 7 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 7
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (23)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[5b/ade1f3] process > process_run:process_barcode:move_or_compress (4)                                                      [ 63%] 7 of 11
+[b8/a5d17a] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (5)                              [ 36%] 8 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 7
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (24)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[5b/ade1f3] process > process_run:process_barcode:move_or_compress (4)                                                      [ 63%] 7 of 11
+[e7/7721ea] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (18)                             [ 40%] 9 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 7
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+executor >  local (25)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[5b/ade1f3] process > process_run:process_barcode:move_or_compress (4)                                                      [ 63%] 7 of 11
+[8b/2af009] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (10)                             [ 45%] 10 of 22
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 7
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+
+WARN: Killing running tasks (6)
+
+executor >  local (25)
+[3a/096567] process > process_run:get_params_and_versions:get_versions                                                      [100%] 1 of 1 ✔
+[8a/a4c3f7] process > process_run:get_params_and_versions:get_params                                                        [100%] 1 of 1 ✔
+[5b/ade1f3] process > process_run:process_barcode:move_or_compress (4)                                                      [100%] 7 of 7
+[8b/2af009] process > process_run:process_barcode:classify_and_report:qc_checks:read_stats (10)                             [ 50%] 10 of 20
+[-        ] process > process_run:process_barcode:classify_and_report:qc_checks:publish_stats                               -
+[skipped  ] process > process_run:process_barcode:classify_and_report:kraken_classify:kraken_setup:unpack_taxonomy          [100%] 1 of 1, stored: 1 ✔
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken2_client [  0%] 0 of 7
+[-        ] process > process_run:process_barcode:classify_and_report:kraken_classify:run_kraken_and_bracken:kraken_to_json -
+[-        ] process > process_run:process_barcode:classify_and_report:check_hcid_status:check_hcid                          -
+[-        ] process > process_run:process_barcode:classify_and_report:generate_report:make_report                           -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:split_kreport                                    -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:extract_taxa_paired_reads                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:bgzip_extracted_taxa                             -
+[-        ] process > process_run:process_barcode:extract_all:extract_taxa:merge_read_summary                               -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_dehumanised                  -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus_and_unclassified       -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:extract_paired_virus                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:bgzip_extracted_taxa                        -
+[-        ] process > process_run:process_barcode:extract_all:extract_fractions:merge_read_summary                          -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:assemble_megahit_paired                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:assemble_taxa:generate_assembly_stats                -
+[-        ] process > process_run:process_barcode:classify_virus_fastq:run_virbot                                           -
+One more CTRL+C to force exit
+Adieu
+

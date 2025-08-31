@@ -1,0 +1,104 @@
+family,Read Count,Higher order,color
+Arenaviridae,2763906,(-)ssRNA Virus,#ca7a1e
+Paramyxoviridae,54055,(-)ssRNA Virus,#b51ac1
+Nairoviridae,747,(-)ssRNA Virus,#6967BC
+Pneumoviridae,723,(-)ssRNA Virus,#6967BC
+Rhabdoviridae,700,(-)ssRNA Virus,#6967BC
+Orthomyxoviridae,4,(-)ssRNA Virus,#6967BC
+Poxviridae,760780,dsDNA Virus,#D8A5CE
+Adenoviridae,41108,dsDNA Virus,#e9b3a2
+Papillomaviridae,24784,dsDNA Virus,#f2a0b0
+Orthoherpesviridae,9829,dsDNA Virus,#e16e6e
+Adintoviridae,557,dsDNA Virus,#D8A5CE
+Polyomaviridae,289,dsDNA Virus,#D8A5CE
+Mimiviridae,27,dsDNA Virus,#D8A5CE
+Phycodnaviridae,21,dsDNA Virus,#D8A5CE
+Picobirnaviridae,173304, dsRNA Virus,#5cb3ff
+Sedoreoviridae,10108, dsRNA Virus,#97bdef
+Partitiviridae,4858, dsRNA Virus,#0074C4
+Spinareoviridae,187, dsRNA Virus,#0074C4
+Totiviridae,74, dsRNA Virus,#0074C4
+Endornaviridae,17, dsRNA Virus,#0074C4
+Parvoviridae,703966,ssDNA Virus,#42C754
+Circoviridae,61339,ssDNA Virus,#42C754
+Genomoviridae,15485,ssDNA Virus,#42C754
+Anelloviridae,1262,ssDNA Virus,#42C754
+Smacoviridae,299,ssDNA Virus,#42C755
+Geminiviridae,43,ssDNA Virus,#42C756
+Redondoviridae,11,ssDNA Virus,#42C757
+Coronaviridae,2474139,(+)ssRNA Virus,#ff0006
+Tobaniviridae,1995354,(+)ssRNA Virus,#824b3f
+Astroviridae,737058,(+)ssRNA Virus,#7d1108
+Picornaviridae,210649,(+)ssRNA Virus,#ff80be
+Caliciviridae,20661,(+)ssRNA Virus,#1ec4ca
+Arteriviridae,1555,(+)ssRNA Virus,#78dbdf
+Tombusviridae,1006,(+)ssRNA Virus,#fbc22f
+Bromoviridae,972,(+)ssRNA Virus,#6967BC
+Potyviridae,923,(+)ssRNA Virus,#6967BC
+Mitoviridae,708,(+)ssRNA Virus,#6967BC
+Iflaviridae,629,(+)ssRNA Virus,#6967BC
+Betaflexiviridae,449,(+)ssRNA Virus,#6967BC
+Alphaflexiviridae,394,(+)ssRNA Virus,#6967BC
+Botourmiaviridae,207,(+)ssRNA Virus,#6967BC
+Solemoviridae,85,(+)ssRNA Virus,#6967BC
+Flaviviridae,45,(+)ssRNA Virus,#6967BC
+Mesoniviridae,29,(+)ssRNA Virus,#6967BC
+Narnaviridae,23,(+)ssRNA Virus,#6967BC
+Closteroviridae,18,(+)ssRNA Virus,#6967BC
+Hepeviridae,16,(+)ssRNA Virus,#6967BC
+Tymoviridae,13,(+)ssRNA Virus,#6967BC
+Kitaviridae,10,(+)ssRNA Virus,#6967BC
+Dicistroviridae,6,(+)ssRNA Virus,#6967BC
+Nodaviridae,6,(+)ssRNA Virus,#6967BC
+Fungi,2840633,Eukaryota,#D8A5CE
+Protists,481417,Eukaryota,#FF7D48
+Trypanosomatidae,75277,Euglenoza,#D8A5CE
+Algae,70966,Eukaryota,#D8A5CE
+Cryptosporidiidae,53390,Apicomplexa,#AFD1FF
+Plasmodiidae,23279,Apicomplexa,#AFD1FF
+Babesiidae,12278,Apicomplexa,#AFD1FF
+Chromista,4089,Eukaryota,#D8A5CE
+Evosea,3384,Eukaryota,#D8A5CE
+Protozoa,358,Eukaryota,#D8A5CE
+Eimeriidae,301,Eukaryota,#D8A5CE
+Ichthyobodonidae,121,Eukaryota,#D8A5CE
+Excavata,105,Eukaryota,#D8A5CE
+Theileriidae,49,Eukaryota,#D8A5CE
+Sarcocystidae,45,Eukaryota,#D8A5CE
+Porosporidae,4,Eukaryota,#D8A5CE
+Trichinellidae,1124557,Nematoda,#FFEF00
+Trichuridae,874972,Nematoda,  #D8D8D8
+Onchocercidae,740911,Nematoda,    red
+Toxocaridae,151236,Nematoda,#ACDF87
+Oxyuridae,105652,Nematoda,#1E5631
+Rhabditidae,84837,Nematoda,#FFFD01
+Anisakidae,21637,Nematoda,#5e7dbb
+Metastrongylidae,18525,Nematoda,#ed80e9
+Anguinidae,10505,Nematoda,#002387
+Trichostrongylidae,2507,Nematoda,#A52A2A
+Strongylidae,2234,Nematoda, #909090
+Heligmosomidae,1916,Nematoda,#F9E486
+Heteroderidae,699,Nematoda,#9A2A2A
+Meloidogynidae,222,Nematoda,#A4DE02
+Strongyloididae,189,Nematoda,#DC143C
+Aphelenchoididae,188,Nematoda,#2e52a1
+Capillariidae,175,Nematoda,#AA4A44
+Ancylostomatidae,153,Nematoda,#814141
+Soboliphymatidae,56,Nematoda,#0039dc
+Steinernematidae,31,Nematoda,#C21E56
+Neodiplogasteridae,13,Nematoda,#C21E57
+Panagrolaimidae,10,Nematoda,#C21E58
+Gongylonematidae,6,Nematoda,#C21E59
+Dracunculidae,4,Nematoda,#C21E60
+Hymenolepididae,22413,Platyhelminthes ,#7B1818
+Taeniidae,3750,Platyhelminthes ,#800020
+Diphyllobothriidae,2133,Platyhelminthes ,#7C3030
+Mesocestoididae,33,Platyhelminthes ,#784176
+Polystomatidae,69,Platyhelminthes ,#E30B5C
+Schistosomatidae,13403,Platyhelminthes ,#880808
+Opisthorchiidae,3104,Platyhelminthes ,#3CB371
+Troglotrematidae,1260,Platyhelminthes ,#308355
+Dicrocoeliidae,10,Platyhelminthes ,  purple
+Fasciolidae,6,Platyhelminthes ,#FA5F55
+Macrostomidae,28,Platyhelminthes ,#6E260E
+Notoplanidae,4,Platyhelminthes ,#FF2400
